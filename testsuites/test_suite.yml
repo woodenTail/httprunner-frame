@@ -1,0 +1,9 @@
+config:
+    name: testcase description
+
+teststeps:
+-   name: /cgi-bin/token
+    testcase: testcases/get_token_case.yml
+-   name: /cgi-bin/select_token
+    testcase: testcases/select_token_case.yml
+

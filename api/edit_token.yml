@@ -1,0 +1,34 @@
+config:
+    name: testcase description
+    variables:
+        access_token: $access_token
+        id: 162
+        name: 广东人1682300841044
+teststeps:
+-   name: /cgi-bin/tags/update
+    request:
+        headers:
+            Content-Type: application/json
+            Postman-Token: a6394a54-210d-4f15-8401-2adfbdde63fa
+            User-Agent: PostmanRuntime/7.32.2
+        json:
+            tag:
+                id: $id
+                name: $name
+        method: POST
+        params:
+            access_token: $access_token
+        url: https://api.weixin.qq.com/cgi-bin/tags/update
+    validate:
+    -   eq:
+        - status_code
+        - 200
+    -   eq:
+        - headers.Content-Type
+        - application/json; encoding=utf-8
+    -   eq:
+        - content.errcode
+        - 0
+    -   eq:
+        - content.errmsg
+        - ok

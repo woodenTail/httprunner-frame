@@ -1,0 +1,5 @@
+config:
+    name: testcase description
+
+teststeps:
+-   name: /cgi-bin/tags/update

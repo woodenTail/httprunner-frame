@@ -1,0 +1,2648 @@
+2023-04-24 10:46:32.464 | INFO | run step begin: /cgi-bin/token >>>>>>
+2023-04-24 10:46:32.465 | INFO | Start to run testcase: testcase description, TestCase ID: 79681552-e162-47aa-8003-7f8219c6e84c
+2023-04-24 10:46:32.467 | INFO | run step begin: /cgi-bin/token >>>>>>
+2023-04-24 10:46:32.467 | INFO | run step begin: /cgi-bin/token >>>>>>
+2023-04-24 10:46:32.468 | INFO | Start to run testcase: testcase description, TestCase ID: 79681552-e162-47aa-8003-7f8219c6e84c
+2023-04-24 10:46:32.468 | INFO | Start to run testcase: testcase description, TestCase ID: 79681552-e162-47aa-8003-7f8219c6e84c
+2023-04-24 10:46:32.470 | INFO | run step begin: /cgi-bin/token >>>>>>
+2023-04-24 10:46:32.470 | INFO | run step begin: /cgi-bin/token >>>>>>
+2023-04-24 10:46:32.470 | INFO | run step begin: /cgi-bin/token >>>>>>
+2023-04-24 10:46:32.472 | DEBUG | ====== request details ======
+url: https://api.weixin.qq.com/cgi-bin/token
+method: GET
+params: {
+    "appid": "wxe6d35c5fb83d7039",
+    "grant_type": "client_credential",
+    "secret": "648f2af46d5cfd59fc0feb2b6c4019e0"
+}
+data: None
+cookies: {}
+timeout: 120
+allow_redirects: True
+verify: False
+headers: {
+    "Authorization": "Basic MTox",
+    "Postman-Token": "b4b7b7a2-e6fd-46b7-976f-dbfe4f8a8664",
+    "User-Agent": "PostmanRuntime/7.32.2",
+    "HRUN-Request-ID": "HRUN-79681552-e162-47aa-8003-7f8219c6e84c-392472"
+}
+json: None
+
+2023-04-24 10:46:32.472 | DEBUG | ====== request details ======
+url: https://api.weixin.qq.com/cgi-bin/token
+method: GET
+params: {
+    "appid": "wxe6d35c5fb83d7039",
+    "grant_type": "client_credential",
+    "secret": "648f2af46d5cfd59fc0feb2b6c4019e0"
+}
+data: None
+cookies: {}
+timeout: 120
+allow_redirects: True
+verify: False
+headers: {
+    "Authorization": "Basic MTox",
+    "Postman-Token": "b4b7b7a2-e6fd-46b7-976f-dbfe4f8a8664",
+    "User-Agent": "PostmanRuntime/7.32.2",
+    "HRUN-Request-ID": "HRUN-79681552-e162-47aa-8003-7f8219c6e84c-392472"
+}
+json: None
+
+2023-04-24 10:46:32.472 | DEBUG | ====== request details ======
+url: https://api.weixin.qq.com/cgi-bin/token
+method: GET
+params: {
+    "appid": "wxe6d35c5fb83d7039",
+    "grant_type": "client_credential",
+    "secret": "648f2af46d5cfd59fc0feb2b6c4019e0"
+}
+data: None
+cookies: {}
+timeout: 120
+allow_redirects: True
+verify: False
+headers: {
+    "Authorization": "Basic MTox",
+    "Postman-Token": "b4b7b7a2-e6fd-46b7-976f-dbfe4f8a8664",
+    "User-Agent": "PostmanRuntime/7.32.2",
+    "HRUN-Request-ID": "HRUN-79681552-e162-47aa-8003-7f8219c6e84c-392472"
+}
+json: None
+
+2023-04-24 10:46:33.099 | DEBUG | client IP: 192.168.180.112, Port: 49630
+2023-04-24 10:46:33.099 | DEBUG | client IP: 192.168.180.112, Port: 49630
+2023-04-24 10:46:33.099 | DEBUG | client IP: 192.168.180.112, Port: 49630
+2023-04-24 10:46:33.100 | DEBUG | server IP: 101.91.37.13, Port: 443
+2023-04-24 10:46:33.100 | DEBUG | server IP: 101.91.37.13, Port: 443
+2023-04-24 10:46:33.100 | DEBUG | server IP: 101.91.37.13, Port: 443
+2023-04-24 10:46:33.101 | DEBUG | 
+================== request details ==================
+method   : GET
+url      : https://api.weixin.qq.com/cgi-bin/token?appid=wxe6d35c5fb83d7039&grant_type=client_credential&secret=648f2af46d5cfd59fc0feb2b6c4019e0
+headers  : {
+    "User-Agent": "PostmanRuntime/7.32.2",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Authorization": "Basic MTox",
+    "Postman-Token": "b4b7b7a2-e6fd-46b7-976f-dbfe4f8a8664",
+    "HRUN-Request-ID": "HRUN-79681552-e162-47aa-8003-7f8219c6e84c-392472"
+}
+cookies  : {}
+body     : None
+
+2023-04-24 10:46:33.101 | DEBUG | 
+================== request details ==================
+method   : GET
+url      : https://api.weixin.qq.com/cgi-bin/token?appid=wxe6d35c5fb83d7039&grant_type=client_credential&secret=648f2af46d5cfd59fc0feb2b6c4019e0
+headers  : {
+    "User-Agent": "PostmanRuntime/7.32.2",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Authorization": "Basic MTox",
+    "Postman-Token": "b4b7b7a2-e6fd-46b7-976f-dbfe4f8a8664",
+    "HRUN-Request-ID": "HRUN-79681552-e162-47aa-8003-7f8219c6e84c-392472"
+}
+cookies  : {}
+body     : None
+
+2023-04-24 10:46:33.101 | DEBUG | 
+================== request details ==================
+method   : GET
+url      : https://api.weixin.qq.com/cgi-bin/token?appid=wxe6d35c5fb83d7039&grant_type=client_credential&secret=648f2af46d5cfd59fc0feb2b6c4019e0
+headers  : {
+    "User-Agent": "PostmanRuntime/7.32.2",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Authorization": "Basic MTox",
+    "Postman-Token": "b4b7b7a2-e6fd-46b7-976f-dbfe4f8a8664",
+    "HRUN-Request-ID": "HRUN-79681552-e162-47aa-8003-7f8219c6e84c-392472"
+}
+cookies  : {}
+body     : None
+
+2023-04-24 10:46:33.102 | DEBUG | 
+================== response details ==================
+status_code : 200
+headers  : {
+    "Connection": "keep-alive",
+    "Content-Type": "application/json; encoding=utf-8",
+    "Date": "Mon, 24 Apr 2023 02:46:33 GMT",
+    "Content-Length": "173"
+}
+cookies  : {}
+encoding : utf-8
+content_type : application/json; encoding=utf-8
+body     : {
+    "access_token": "67_sy35uYiX1YuVDnokctbtseIKZnT9XAI0SFs3SnIemDRbBVt-vBD2a9Wt-xJu05hiUu32KEOkr8hfqfDS4WskHr6wu6RjM9AiR54zwKjas3aifBbm4Y8Ryuaq4sIXVGhAEAPNY",
+    "expires_in": 7200
+}
+
+2023-04-24 10:46:33.102 | DEBUG | 
+================== response details ==================
+status_code : 200
+headers  : {
+    "Connection": "keep-alive",
+    "Content-Type": "application/json; encoding=utf-8",
+    "Date": "Mon, 24 Apr 2023 02:46:33 GMT",
+    "Content-Length": "173"
+}
+cookies  : {}
+encoding : utf-8
+content_type : application/json; encoding=utf-8
+body     : {
+    "access_token": "67_sy35uYiX1YuVDnokctbtseIKZnT9XAI0SFs3SnIemDRbBVt-vBD2a9Wt-xJu05hiUu32KEOkr8hfqfDS4WskHr6wu6RjM9AiR54zwKjas3aifBbm4Y8Ryuaq4sIXVGhAEAPNY",
+    "expires_in": 7200
+}
+
+2023-04-24 10:46:33.102 | DEBUG | 
+================== response details ==================
+status_code : 200
+headers  : {
+    "Connection": "keep-alive",
+    "Content-Type": "application/json; encoding=utf-8",
+    "Date": "Mon, 24 Apr 2023 02:46:33 GMT",
+    "Content-Length": "173"
+}
+cookies  : {}
+encoding : utf-8
+content_type : application/json; encoding=utf-8
+body     : {
+    "access_token": "67_sy35uYiX1YuVDnokctbtseIKZnT9XAI0SFs3SnIemDRbBVt-vBD2a9Wt-xJu05hiUu32KEOkr8hfqfDS4WskHr6wu6RjM9AiR54zwKjas3aifBbm4Y8Ryuaq4sIXVGhAEAPNY",
+    "expires_in": 7200
+}
+
+2023-04-24 10:46:33.102 | INFO | status_code: 200, response_time(ms): 626.96 ms, response_length: 0 bytes
+2023-04-24 10:46:33.102 | INFO | status_code: 200, response_time(ms): 626.96 ms, response_length: 0 bytes
+2023-04-24 10:46:33.102 | INFO | status_code: 200, response_time(ms): 626.96 ms, response_length: 0 bytes
+2023-04-24 10:46:33.103 | DEBUG | ====== response details ======
+status_code: 200
+headers: {
+    "Connection": "keep-alive",
+    "Content-Type": "application/json; encoding=utf-8",
+    "Date": "Mon, 24 Apr 2023 02:46:33 GMT",
+    "Content-Length": "173"
+}
+body: {
+    "access_token": "67_sy35uYiX1YuVDnokctbtseIKZnT9XAI0SFs3SnIemDRbBVt-vBD2a9Wt-xJu05hiUu32KEOkr8hfqfDS4WskHr6wu6RjM9AiR54zwKjas3aifBbm4Y8Ryuaq4sIXVGhAEAPNY",
+    "expires_in": 7200
+}
+
+2023-04-24 10:46:33.103 | DEBUG | ====== response details ======
+status_code: 200
+headers: {
+    "Connection": "keep-alive",
+    "Content-Type": "application/json; encoding=utf-8",
+    "Date": "Mon, 24 Apr 2023 02:46:33 GMT",
+    "Content-Length": "173"
+}
+body: {
+    "access_token": "67_sy35uYiX1YuVDnokctbtseIKZnT9XAI0SFs3SnIemDRbBVt-vBD2a9Wt-xJu05hiUu32KEOkr8hfqfDS4WskHr6wu6RjM9AiR54zwKjas3aifBbm4Y8Ryuaq4sIXVGhAEAPNY",
+    "expires_in": 7200
+}
+
+2023-04-24 10:46:33.103 | DEBUG | ====== response details ======
+status_code: 200
+headers: {
+    "Connection": "keep-alive",
+    "Content-Type": "application/json; encoding=utf-8",
+    "Date": "Mon, 24 Apr 2023 02:46:33 GMT",
+    "Content-Length": "173"
+}
+body: {
+    "access_token": "67_sy35uYiX1YuVDnokctbtseIKZnT9XAI0SFs3SnIemDRbBVt-vBD2a9Wt-xJu05hiUu32KEOkr8hfqfDS4WskHr6wu6RjM9AiR54zwKjas3aifBbm4Y8Ryuaq4sIXVGhAEAPNY",
+    "expires_in": 7200
+}
+
+2023-04-24 10:46:33.104 | INFO | extract mapping: {'access_token': '67_sy35uYiX1YuVDnokctbtseIKZnT9XAI0SFs3SnIemDRbBVt-vBD2a9Wt-xJu05hiUu32KEOkr8hfqfDS4WskHr6wu6RjM9AiR54zwKjas3aifBbm4Y8Ryuaq4sIXVGhAEAPNY'}
+2023-04-24 10:46:33.104 | INFO | extract mapping: {'access_token': '67_sy35uYiX1YuVDnokctbtseIKZnT9XAI0SFs3SnIemDRbBVt-vBD2a9Wt-xJu05hiUu32KEOkr8hfqfDS4WskHr6wu6RjM9AiR54zwKjas3aifBbm4Y8Ryuaq4sIXVGhAEAPNY'}
+2023-04-24 10:46:33.104 | INFO | extract mapping: {'access_token': '67_sy35uYiX1YuVDnokctbtseIKZnT9XAI0SFs3SnIemDRbBVt-vBD2a9Wt-xJu05hiUu32KEOkr8hfqfDS4WskHr6wu6RjM9AiR54zwKjas3aifBbm4Y8Ryuaq4sIXVGhAEAPNY'}
+2023-04-24 10:46:33.106 | INFO | assert status_code equal 200(int)	==> pass
+2023-04-24 10:46:33.106 | INFO | assert status_code equal 200(int)	==> pass
+2023-04-24 10:46:33.106 | INFO | assert status_code equal 200(int)	==> pass
+2023-04-24 10:46:33.106 | INFO | run step end: /cgi-bin/token <<<<<<
+
+2023-04-24 10:46:33.106 | INFO | run step end: /cgi-bin/token <<<<<<
+
+2023-04-24 10:46:33.106 | INFO | run step end: /cgi-bin/token <<<<<<
+
+2023-04-24 10:46:33.107 | INFO | generate testcase log: D:\workspace\http-frame\logs\79681552-e162-47aa-8003-7f8219c6e84c.run.log
+2023-04-24 10:46:33.107 | INFO | generate testcase log: D:\workspace\http-frame\logs\79681552-e162-47aa-8003-7f8219c6e84c.run.log
+2023-04-24 10:46:33.107 | INFO | generate testcase log: D:\workspace\http-frame\logs\79681552-e162-47aa-8003-7f8219c6e84c.run.log
+2023-04-24 10:46:33.108 | INFO | run step end: /cgi-bin/token <<<<<<
+
+2023-04-24 10:46:33.108 | INFO | run step end: /cgi-bin/token <<<<<<
+
+2023-04-24 10:46:33.108 | INFO | run step end: /cgi-bin/token <<<<<<
+
+2023-04-24 10:46:33.109 | INFO | generate testcase log: D:\workspace\http-frame\logs\79681552-e162-47aa-8003-7f8219c6e84c.run.log
+2023-04-24 10:46:33.109 | INFO | generate testcase log: D:\workspace\http-frame\logs\79681552-e162-47aa-8003-7f8219c6e84c.run.log
+2023-04-24 10:46:33.109 | INFO | generate testcase log: D:\workspace\http-frame\logs\79681552-e162-47aa-8003-7f8219c6e84c.run.log
+2023-04-24 10:46:33.110 | INFO | run step end: /cgi-bin/token <<<<<<
+
+2023-04-24 10:46:33.110 | INFO | run step end: /cgi-bin/token <<<<<<
+
+2023-04-24 10:46:33.110 | INFO | run step end: /cgi-bin/token <<<<<<
+
+2023-04-24 10:46:33.111 | INFO | run step begin: /cgi-bin/select_token >>>>>>
+2023-04-24 10:46:33.111 | INFO | run step begin: /cgi-bin/select_token >>>>>>
+2023-04-24 10:46:33.111 | INFO | run step begin: /cgi-bin/select_token >>>>>>
+2023-04-24 10:46:33.112 | INFO | Start to run testcase: testcase description, TestCase ID: 79681552-e162-47aa-8003-7f8219c6e84c
+2023-04-24 10:46:33.112 | INFO | Start to run testcase: testcase description, TestCase ID: 79681552-e162-47aa-8003-7f8219c6e84c
+2023-04-24 10:46:33.112 | INFO | Start to run testcase: testcase description, TestCase ID: 79681552-e162-47aa-8003-7f8219c6e84c
+2023-04-24 10:46:33.114 | INFO | run step begin: /cgi-bin/token >>>>>>
+2023-04-24 10:46:33.114 | INFO | run step begin: /cgi-bin/token >>>>>>
+2023-04-24 10:46:33.114 | INFO | run step begin: /cgi-bin/token >>>>>>
+2023-04-24 10:46:33.114 | INFO | run step begin: /cgi-bin/token >>>>>>
+2023-04-24 10:46:33.115 | INFO | Start to run testcase: testcase description, TestCase ID: 79681552-e162-47aa-8003-7f8219c6e84c
+2023-04-24 10:46:33.115 | INFO | Start to run testcase: testcase description, TestCase ID: 79681552-e162-47aa-8003-7f8219c6e84c
+2023-04-24 10:46:33.115 | INFO | Start to run testcase: testcase description, TestCase ID: 79681552-e162-47aa-8003-7f8219c6e84c
+2023-04-24 10:46:33.115 | INFO | Start to run testcase: testcase description, TestCase ID: 79681552-e162-47aa-8003-7f8219c6e84c
+2023-04-24 10:46:33.118 | INFO | run step begin: /cgi-bin/token >>>>>>
+2023-04-24 10:46:33.118 | INFO | run step begin: /cgi-bin/token >>>>>>
+2023-04-24 10:46:33.118 | INFO | run step begin: /cgi-bin/token >>>>>>
+2023-04-24 10:46:33.118 | INFO | run step begin: /cgi-bin/token >>>>>>
+2023-04-24 10:46:33.118 | INFO | run step begin: /cgi-bin/token >>>>>>
+2023-04-24 10:46:33.119 | DEBUG | ====== request details ======
+url: https://api.weixin.qq.com/cgi-bin/token
+method: GET
+params: {
+    "appid": "wxe6d35c5fb83d7039",
+    "grant_type": "client_credential",
+    "secret": "648f2af46d5cfd59fc0feb2b6c4019e0"
+}
+data: None
+cookies: {}
+timeout: 120
+allow_redirects: True
+verify: False
+headers: {
+    "Authorization": "Basic MTox",
+    "Postman-Token": "b4b7b7a2-e6fd-46b7-976f-dbfe4f8a8664",
+    "User-Agent": "PostmanRuntime/7.32.2",
+    "HRUN-Request-ID": "HRUN-79681552-e162-47aa-8003-7f8219c6e84c-393119"
+}
+json: None
+
+2023-04-24 10:46:33.119 | DEBUG | ====== request details ======
+url: https://api.weixin.qq.com/cgi-bin/token
+method: GET
+params: {
+    "appid": "wxe6d35c5fb83d7039",
+    "grant_type": "client_credential",
+    "secret": "648f2af46d5cfd59fc0feb2b6c4019e0"
+}
+data: None
+cookies: {}
+timeout: 120
+allow_redirects: True
+verify: False
+headers: {
+    "Authorization": "Basic MTox",
+    "Postman-Token": "b4b7b7a2-e6fd-46b7-976f-dbfe4f8a8664",
+    "User-Agent": "PostmanRuntime/7.32.2",
+    "HRUN-Request-ID": "HRUN-79681552-e162-47aa-8003-7f8219c6e84c-393119"
+}
+json: None
+
+2023-04-24 10:46:33.119 | DEBUG | ====== request details ======
+url: https://api.weixin.qq.com/cgi-bin/token
+method: GET
+params: {
+    "appid": "wxe6d35c5fb83d7039",
+    "grant_type": "client_credential",
+    "secret": "648f2af46d5cfd59fc0feb2b6c4019e0"
+}
+data: None
+cookies: {}
+timeout: 120
+allow_redirects: True
+verify: False
+headers: {
+    "Authorization": "Basic MTox",
+    "Postman-Token": "b4b7b7a2-e6fd-46b7-976f-dbfe4f8a8664",
+    "User-Agent": "PostmanRuntime/7.32.2",
+    "HRUN-Request-ID": "HRUN-79681552-e162-47aa-8003-7f8219c6e84c-393119"
+}
+json: None
+
+2023-04-24 10:46:33.119 | DEBUG | ====== request details ======
+url: https://api.weixin.qq.com/cgi-bin/token
+method: GET
+params: {
+    "appid": "wxe6d35c5fb83d7039",
+    "grant_type": "client_credential",
+    "secret": "648f2af46d5cfd59fc0feb2b6c4019e0"
+}
+data: None
+cookies: {}
+timeout: 120
+allow_redirects: True
+verify: False
+headers: {
+    "Authorization": "Basic MTox",
+    "Postman-Token": "b4b7b7a2-e6fd-46b7-976f-dbfe4f8a8664",
+    "User-Agent": "PostmanRuntime/7.32.2",
+    "HRUN-Request-ID": "HRUN-79681552-e162-47aa-8003-7f8219c6e84c-393119"
+}
+json: None
+
+2023-04-24 10:46:33.119 | DEBUG | ====== request details ======
+url: https://api.weixin.qq.com/cgi-bin/token
+method: GET
+params: {
+    "appid": "wxe6d35c5fb83d7039",
+    "grant_type": "client_credential",
+    "secret": "648f2af46d5cfd59fc0feb2b6c4019e0"
+}
+data: None
+cookies: {}
+timeout: 120
+allow_redirects: True
+verify: False
+headers: {
+    "Authorization": "Basic MTox",
+    "Postman-Token": "b4b7b7a2-e6fd-46b7-976f-dbfe4f8a8664",
+    "User-Agent": "PostmanRuntime/7.32.2",
+    "HRUN-Request-ID": "HRUN-79681552-e162-47aa-8003-7f8219c6e84c-393119"
+}
+json: None
+
+2023-04-24 10:46:33.511 | DEBUG | client IP: 192.168.180.112, Port: 49630
+2023-04-24 10:46:33.511 | DEBUG | client IP: 192.168.180.112, Port: 49630
+2023-04-24 10:46:33.511 | DEBUG | client IP: 192.168.180.112, Port: 49630
+2023-04-24 10:46:33.511 | DEBUG | client IP: 192.168.180.112, Port: 49630
+2023-04-24 10:46:33.511 | DEBUG | client IP: 192.168.180.112, Port: 49630
+2023-04-24 10:46:33.512 | DEBUG | server IP: 101.91.37.13, Port: 443
+2023-04-24 10:46:33.512 | DEBUG | server IP: 101.91.37.13, Port: 443
+2023-04-24 10:46:33.512 | DEBUG | server IP: 101.91.37.13, Port: 443
+2023-04-24 10:46:33.512 | DEBUG | server IP: 101.91.37.13, Port: 443
+2023-04-24 10:46:33.512 | DEBUG | server IP: 101.91.37.13, Port: 443
+2023-04-24 10:46:33.512 | DEBUG | 
+================== request details ==================
+method   : GET
+url      : https://api.weixin.qq.com/cgi-bin/token?appid=wxe6d35c5fb83d7039&grant_type=client_credential&secret=648f2af46d5cfd59fc0feb2b6c4019e0
+headers  : {
+    "User-Agent": "PostmanRuntime/7.32.2",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Authorization": "Basic MTox",
+    "Postman-Token": "b4b7b7a2-e6fd-46b7-976f-dbfe4f8a8664",
+    "HRUN-Request-ID": "HRUN-79681552-e162-47aa-8003-7f8219c6e84c-393119"
+}
+cookies  : {}
+body     : None
+
+2023-04-24 10:46:33.512 | DEBUG | 
+================== request details ==================
+method   : GET
+url      : https://api.weixin.qq.com/cgi-bin/token?appid=wxe6d35c5fb83d7039&grant_type=client_credential&secret=648f2af46d5cfd59fc0feb2b6c4019e0
+headers  : {
+    "User-Agent": "PostmanRuntime/7.32.2",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Authorization": "Basic MTox",
+    "Postman-Token": "b4b7b7a2-e6fd-46b7-976f-dbfe4f8a8664",
+    "HRUN-Request-ID": "HRUN-79681552-e162-47aa-8003-7f8219c6e84c-393119"
+}
+cookies  : {}
+body     : None
+
+2023-04-24 10:46:33.512 | DEBUG | 
+================== request details ==================
+method   : GET
+url      : https://api.weixin.qq.com/cgi-bin/token?appid=wxe6d35c5fb83d7039&grant_type=client_credential&secret=648f2af46d5cfd59fc0feb2b6c4019e0
+headers  : {
+    "User-Agent": "PostmanRuntime/7.32.2",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Authorization": "Basic MTox",
+    "Postman-Token": "b4b7b7a2-e6fd-46b7-976f-dbfe4f8a8664",
+    "HRUN-Request-ID": "HRUN-79681552-e162-47aa-8003-7f8219c6e84c-393119"
+}
+cookies  : {}
+body     : None
+
+2023-04-24 10:46:33.512 | DEBUG | 
+================== request details ==================
+method   : GET
+url      : https://api.weixin.qq.com/cgi-bin/token?appid=wxe6d35c5fb83d7039&grant_type=client_credential&secret=648f2af46d5cfd59fc0feb2b6c4019e0
+headers  : {
+    "User-Agent": "PostmanRuntime/7.32.2",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Authorization": "Basic MTox",
+    "Postman-Token": "b4b7b7a2-e6fd-46b7-976f-dbfe4f8a8664",
+    "HRUN-Request-ID": "HRUN-79681552-e162-47aa-8003-7f8219c6e84c-393119"
+}
+cookies  : {}
+body     : None
+
+2023-04-24 10:46:33.512 | DEBUG | 
+================== request details ==================
+method   : GET
+url      : https://api.weixin.qq.com/cgi-bin/token?appid=wxe6d35c5fb83d7039&grant_type=client_credential&secret=648f2af46d5cfd59fc0feb2b6c4019e0
+headers  : {
+    "User-Agent": "PostmanRuntime/7.32.2",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Authorization": "Basic MTox",
+    "Postman-Token": "b4b7b7a2-e6fd-46b7-976f-dbfe4f8a8664",
+    "HRUN-Request-ID": "HRUN-79681552-e162-47aa-8003-7f8219c6e84c-393119"
+}
+cookies  : {}
+body     : None
+
+2023-04-24 10:46:33.513 | DEBUG | 
+================== response details ==================
+status_code : 200
+headers  : {
+    "Connection": "keep-alive",
+    "Content-Type": "application/json; encoding=utf-8",
+    "Date": "Mon, 24 Apr 2023 02:46:33 GMT",
+    "Content-Length": "173"
+}
+cookies  : {}
+encoding : utf-8
+content_type : application/json; encoding=utf-8
+body     : {
+    "access_token": "67_sy35uYiX1YuVDnokctbtseIKZnT9XAI0SFs3SnIemDRbBVt-vBD2a9Wt-xJu05hiUu32KEOkr8hfqfDS4WskHr6wu6RjM9AiR54zwKjas3aifBbm4Y8Ryuaq4sICADhAEAHFI",
+    "expires_in": 7200
+}
+
+2023-04-24 10:46:33.513 | DEBUG | 
+================== response details ==================
+status_code : 200
+headers  : {
+    "Connection": "keep-alive",
+    "Content-Type": "application/json; encoding=utf-8",
+    "Date": "Mon, 24 Apr 2023 02:46:33 GMT",
+    "Content-Length": "173"
+}
+cookies  : {}
+encoding : utf-8
+content_type : application/json; encoding=utf-8
+body     : {
+    "access_token": "67_sy35uYiX1YuVDnokctbtseIKZnT9XAI0SFs3SnIemDRbBVt-vBD2a9Wt-xJu05hiUu32KEOkr8hfqfDS4WskHr6wu6RjM9AiR54zwKjas3aifBbm4Y8Ryuaq4sICADhAEAHFI",
+    "expires_in": 7200
+}
+
+2023-04-24 10:46:33.513 | DEBUG | 
+================== response details ==================
+status_code : 200
+headers  : {
+    "Connection": "keep-alive",
+    "Content-Type": "application/json; encoding=utf-8",
+    "Date": "Mon, 24 Apr 2023 02:46:33 GMT",
+    "Content-Length": "173"
+}
+cookies  : {}
+encoding : utf-8
+content_type : application/json; encoding=utf-8
+body     : {
+    "access_token": "67_sy35uYiX1YuVDnokctbtseIKZnT9XAI0SFs3SnIemDRbBVt-vBD2a9Wt-xJu05hiUu32KEOkr8hfqfDS4WskHr6wu6RjM9AiR54zwKjas3aifBbm4Y8Ryuaq4sICADhAEAHFI",
+    "expires_in": 7200
+}
+
+2023-04-24 10:46:33.513 | DEBUG | 
+================== response details ==================
+status_code : 200
+headers  : {
+    "Connection": "keep-alive",
+    "Content-Type": "application/json; encoding=utf-8",
+    "Date": "Mon, 24 Apr 2023 02:46:33 GMT",
+    "Content-Length": "173"
+}
+cookies  : {}
+encoding : utf-8
+content_type : application/json; encoding=utf-8
+body     : {
+    "access_token": "67_sy35uYiX1YuVDnokctbtseIKZnT9XAI0SFs3SnIemDRbBVt-vBD2a9Wt-xJu05hiUu32KEOkr8hfqfDS4WskHr6wu6RjM9AiR54zwKjas3aifBbm4Y8Ryuaq4sICADhAEAHFI",
+    "expires_in": 7200
+}
+
+2023-04-24 10:46:33.513 | DEBUG | 
+================== response details ==================
+status_code : 200
+headers  : {
+    "Connection": "keep-alive",
+    "Content-Type": "application/json; encoding=utf-8",
+    "Date": "Mon, 24 Apr 2023 02:46:33 GMT",
+    "Content-Length": "173"
+}
+cookies  : {}
+encoding : utf-8
+content_type : application/json; encoding=utf-8
+body     : {
+    "access_token": "67_sy35uYiX1YuVDnokctbtseIKZnT9XAI0SFs3SnIemDRbBVt-vBD2a9Wt-xJu05hiUu32KEOkr8hfqfDS4WskHr6wu6RjM9AiR54zwKjas3aifBbm4Y8Ryuaq4sICADhAEAHFI",
+    "expires_in": 7200
+}
+
+2023-04-24 10:46:33.513 | INFO | status_code: 200, response_time(ms): 392.41 ms, response_length: 0 bytes
+2023-04-24 10:46:33.513 | INFO | status_code: 200, response_time(ms): 392.41 ms, response_length: 0 bytes
+2023-04-24 10:46:33.513 | INFO | status_code: 200, response_time(ms): 392.41 ms, response_length: 0 bytes
+2023-04-24 10:46:33.513 | INFO | status_code: 200, response_time(ms): 392.41 ms, response_length: 0 bytes
+2023-04-24 10:46:33.513 | INFO | status_code: 200, response_time(ms): 392.41 ms, response_length: 0 bytes
+2023-04-24 10:46:33.514 | DEBUG | ====== response details ======
+status_code: 200
+headers: {
+    "Connection": "keep-alive",
+    "Content-Type": "application/json; encoding=utf-8",
+    "Date": "Mon, 24 Apr 2023 02:46:33 GMT",
+    "Content-Length": "173"
+}
+body: {
+    "access_token": "67_sy35uYiX1YuVDnokctbtseIKZnT9XAI0SFs3SnIemDRbBVt-vBD2a9Wt-xJu05hiUu32KEOkr8hfqfDS4WskHr6wu6RjM9AiR54zwKjas3aifBbm4Y8Ryuaq4sICADhAEAHFI",
+    "expires_in": 7200
+}
+
+2023-04-24 10:46:33.514 | DEBUG | ====== response details ======
+status_code: 200
+headers: {
+    "Connection": "keep-alive",
+    "Content-Type": "application/json; encoding=utf-8",
+    "Date": "Mon, 24 Apr 2023 02:46:33 GMT",
+    "Content-Length": "173"
+}
+body: {
+    "access_token": "67_sy35uYiX1YuVDnokctbtseIKZnT9XAI0SFs3SnIemDRbBVt-vBD2a9Wt-xJu05hiUu32KEOkr8hfqfDS4WskHr6wu6RjM9AiR54zwKjas3aifBbm4Y8Ryuaq4sICADhAEAHFI",
+    "expires_in": 7200
+}
+
+2023-04-24 10:46:33.514 | DEBUG | ====== response details ======
+status_code: 200
+headers: {
+    "Connection": "keep-alive",
+    "Content-Type": "application/json; encoding=utf-8",
+    "Date": "Mon, 24 Apr 2023 02:46:33 GMT",
+    "Content-Length": "173"
+}
+body: {
+    "access_token": "67_sy35uYiX1YuVDnokctbtseIKZnT9XAI0SFs3SnIemDRbBVt-vBD2a9Wt-xJu05hiUu32KEOkr8hfqfDS4WskHr6wu6RjM9AiR54zwKjas3aifBbm4Y8Ryuaq4sICADhAEAHFI",
+    "expires_in": 7200
+}
+
+2023-04-24 10:46:33.514 | DEBUG | ====== response details ======
+status_code: 200
+headers: {
+    "Connection": "keep-alive",
+    "Content-Type": "application/json; encoding=utf-8",
+    "Date": "Mon, 24 Apr 2023 02:46:33 GMT",
+    "Content-Length": "173"
+}
+body: {
+    "access_token": "67_sy35uYiX1YuVDnokctbtseIKZnT9XAI0SFs3SnIemDRbBVt-vBD2a9Wt-xJu05hiUu32KEOkr8hfqfDS4WskHr6wu6RjM9AiR54zwKjas3aifBbm4Y8Ryuaq4sICADhAEAHFI",
+    "expires_in": 7200
+}
+
+2023-04-24 10:46:33.514 | DEBUG | ====== response details ======
+status_code: 200
+headers: {
+    "Connection": "keep-alive",
+    "Content-Type": "application/json; encoding=utf-8",
+    "Date": "Mon, 24 Apr 2023 02:46:33 GMT",
+    "Content-Length": "173"
+}
+body: {
+    "access_token": "67_sy35uYiX1YuVDnokctbtseIKZnT9XAI0SFs3SnIemDRbBVt-vBD2a9Wt-xJu05hiUu32KEOkr8hfqfDS4WskHr6wu6RjM9AiR54zwKjas3aifBbm4Y8Ryuaq4sICADhAEAHFI",
+    "expires_in": 7200
+}
+
+2023-04-24 10:46:33.515 | INFO | extract mapping: {'access_token': '67_sy35uYiX1YuVDnokctbtseIKZnT9XAI0SFs3SnIemDRbBVt-vBD2a9Wt-xJu05hiUu32KEOkr8hfqfDS4WskHr6wu6RjM9AiR54zwKjas3aifBbm4Y8Ryuaq4sICADhAEAHFI'}
+2023-04-24 10:46:33.515 | INFO | extract mapping: {'access_token': '67_sy35uYiX1YuVDnokctbtseIKZnT9XAI0SFs3SnIemDRbBVt-vBD2a9Wt-xJu05hiUu32KEOkr8hfqfDS4WskHr6wu6RjM9AiR54zwKjas3aifBbm4Y8Ryuaq4sICADhAEAHFI'}
+2023-04-24 10:46:33.515 | INFO | extract mapping: {'access_token': '67_sy35uYiX1YuVDnokctbtseIKZnT9XAI0SFs3SnIemDRbBVt-vBD2a9Wt-xJu05hiUu32KEOkr8hfqfDS4WskHr6wu6RjM9AiR54zwKjas3aifBbm4Y8Ryuaq4sICADhAEAHFI'}
+2023-04-24 10:46:33.515 | INFO | extract mapping: {'access_token': '67_sy35uYiX1YuVDnokctbtseIKZnT9XAI0SFs3SnIemDRbBVt-vBD2a9Wt-xJu05hiUu32KEOkr8hfqfDS4WskHr6wu6RjM9AiR54zwKjas3aifBbm4Y8Ryuaq4sICADhAEAHFI'}
+2023-04-24 10:46:33.515 | INFO | extract mapping: {'access_token': '67_sy35uYiX1YuVDnokctbtseIKZnT9XAI0SFs3SnIemDRbBVt-vBD2a9Wt-xJu05hiUu32KEOkr8hfqfDS4WskHr6wu6RjM9AiR54zwKjas3aifBbm4Y8Ryuaq4sICADhAEAHFI'}
+2023-04-24 10:46:33.516 | INFO | assert status_code equal 200(int)	==> pass
+2023-04-24 10:46:33.516 | INFO | assert status_code equal 200(int)	==> pass
+2023-04-24 10:46:33.516 | INFO | assert status_code equal 200(int)	==> pass
+2023-04-24 10:46:33.516 | INFO | assert status_code equal 200(int)	==> pass
+2023-04-24 10:46:33.516 | INFO | assert status_code equal 200(int)	==> pass
+2023-04-24 10:46:33.516 | INFO | run step end: /cgi-bin/token <<<<<<
+
+2023-04-24 10:46:33.516 | INFO | run step end: /cgi-bin/token <<<<<<
+
+2023-04-24 10:46:33.516 | INFO | run step end: /cgi-bin/token <<<<<<
+
+2023-04-24 10:46:33.516 | INFO | run step end: /cgi-bin/token <<<<<<
+
+2023-04-24 10:46:33.516 | INFO | run step end: /cgi-bin/token <<<<<<
+
+2023-04-24 10:46:33.517 | INFO | generate testcase log: D:\workspace\http-frame\logs\79681552-e162-47aa-8003-7f8219c6e84c.run.log
+2023-04-24 10:46:33.517 | INFO | generate testcase log: D:\workspace\http-frame\logs\79681552-e162-47aa-8003-7f8219c6e84c.run.log
+2023-04-24 10:46:33.517 | INFO | generate testcase log: D:\workspace\http-frame\logs\79681552-e162-47aa-8003-7f8219c6e84c.run.log
+2023-04-24 10:46:33.517 | INFO | generate testcase log: D:\workspace\http-frame\logs\79681552-e162-47aa-8003-7f8219c6e84c.run.log
+2023-04-24 10:46:33.517 | INFO | generate testcase log: D:\workspace\http-frame\logs\79681552-e162-47aa-8003-7f8219c6e84c.run.log
+2023-04-24 10:46:33.518 | INFO | export variables: {'access_token': '67_sy35uYiX1YuVDnokctbtseIKZnT9XAI0SFs3SnIemDRbBVt-vBD2a9Wt-xJu05hiUu32KEOkr8hfqfDS4WskHr6wu6RjM9AiR54zwKjas3aifBbm4Y8Ryuaq4sICADhAEAHFI'}
+2023-04-24 10:46:33.518 | INFO | export variables: {'access_token': '67_sy35uYiX1YuVDnokctbtseIKZnT9XAI0SFs3SnIemDRbBVt-vBD2a9Wt-xJu05hiUu32KEOkr8hfqfDS4WskHr6wu6RjM9AiR54zwKjas3aifBbm4Y8Ryuaq4sICADhAEAHFI'}
+2023-04-24 10:46:33.518 | INFO | export variables: {'access_token': '67_sy35uYiX1YuVDnokctbtseIKZnT9XAI0SFs3SnIemDRbBVt-vBD2a9Wt-xJu05hiUu32KEOkr8hfqfDS4WskHr6wu6RjM9AiR54zwKjas3aifBbm4Y8Ryuaq4sICADhAEAHFI'}
+2023-04-24 10:46:33.518 | INFO | export variables: {'access_token': '67_sy35uYiX1YuVDnokctbtseIKZnT9XAI0SFs3SnIemDRbBVt-vBD2a9Wt-xJu05hiUu32KEOkr8hfqfDS4WskHr6wu6RjM9AiR54zwKjas3aifBbm4Y8Ryuaq4sICADhAEAHFI'}
+2023-04-24 10:46:33.518 | INFO | export variables: {'access_token': '67_sy35uYiX1YuVDnokctbtseIKZnT9XAI0SFs3SnIemDRbBVt-vBD2a9Wt-xJu05hiUu32KEOkr8hfqfDS4WskHr6wu6RjM9AiR54zwKjas3aifBbm4Y8Ryuaq4sICADhAEAHFI'}
+2023-04-24 10:46:33.519 | INFO | run step end: /cgi-bin/token <<<<<<
+
+2023-04-24 10:46:33.519 | INFO | run step end: /cgi-bin/token <<<<<<
+
+2023-04-24 10:46:33.519 | INFO | run step end: /cgi-bin/token <<<<<<
+
+2023-04-24 10:46:33.519 | INFO | run step end: /cgi-bin/token <<<<<<
+
+2023-04-24 10:46:33.519 | INFO | run step end: /cgi-bin/token <<<<<<
+
+2023-04-24 10:46:33.520 | INFO | run step begin: /cgi-bin/tags/get >>>>>>
+2023-04-24 10:46:33.520 | INFO | run step begin: /cgi-bin/tags/get >>>>>>
+2023-04-24 10:46:33.520 | INFO | run step begin: /cgi-bin/tags/get >>>>>>
+2023-04-24 10:46:33.520 | INFO | run step begin: /cgi-bin/tags/get >>>>>>
+2023-04-24 10:46:33.520 | INFO | run step begin: /cgi-bin/tags/get >>>>>>
+2023-04-24 10:46:33.521 | INFO | Start to run testcase: testcase description, TestCase ID: 79681552-e162-47aa-8003-7f8219c6e84c
+2023-04-24 10:46:33.521 | INFO | Start to run testcase: testcase description, TestCase ID: 79681552-e162-47aa-8003-7f8219c6e84c
+2023-04-24 10:46:33.521 | INFO | Start to run testcase: testcase description, TestCase ID: 79681552-e162-47aa-8003-7f8219c6e84c
+2023-04-24 10:46:33.521 | INFO | Start to run testcase: testcase description, TestCase ID: 79681552-e162-47aa-8003-7f8219c6e84c
+2023-04-24 10:46:33.521 | INFO | Start to run testcase: testcase description, TestCase ID: 79681552-e162-47aa-8003-7f8219c6e84c
+2023-04-24 10:46:33.524 | INFO | run step begin: /cgi-bin/tags/get >>>>>>
+2023-04-24 10:46:33.524 | INFO | run step begin: /cgi-bin/tags/get >>>>>>
+2023-04-24 10:46:33.524 | INFO | run step begin: /cgi-bin/tags/get >>>>>>
+2023-04-24 10:46:33.524 | INFO | run step begin: /cgi-bin/tags/get >>>>>>
+2023-04-24 10:46:33.524 | INFO | run step begin: /cgi-bin/tags/get >>>>>>
+2023-04-24 10:46:33.524 | INFO | run step begin: /cgi-bin/tags/get >>>>>>
+2023-04-24 10:46:33.526 | DEBUG | ====== request details ======
+url: https://api.weixin.qq.com/cgi-bin/tags/get
+method: GET
+params: {
+    "access_token": "67_sy35uYiX1YuVDnokctbtseIKZnT9XAI0SFs3SnIemDRbBVt-vBD2a9Wt-xJu05hiUu32KEOkr8hfqfDS4WskHr6wu6RjM9AiR54zwKjas3aifBbm4Y8Ryuaq4sICADhAEAHFI"
+}
+data: None
+cookies: {}
+timeout: 120
+allow_redirects: True
+verify: False
+headers: {
+    "Postman-Token": "c83ad029-b706-4166-8707-2b98be52346b",
+    "User-Agent": "PostmanRuntime/7.32.2",
+    "HRUN-Request-ID": "HRUN-79681552-e162-47aa-8003-7f8219c6e84c-393525"
+}
+json: None
+
+2023-04-24 10:46:33.526 | DEBUG | ====== request details ======
+url: https://api.weixin.qq.com/cgi-bin/tags/get
+method: GET
+params: {
+    "access_token": "67_sy35uYiX1YuVDnokctbtseIKZnT9XAI0SFs3SnIemDRbBVt-vBD2a9Wt-xJu05hiUu32KEOkr8hfqfDS4WskHr6wu6RjM9AiR54zwKjas3aifBbm4Y8Ryuaq4sICADhAEAHFI"
+}
+data: None
+cookies: {}
+timeout: 120
+allow_redirects: True
+verify: False
+headers: {
+    "Postman-Token": "c83ad029-b706-4166-8707-2b98be52346b",
+    "User-Agent": "PostmanRuntime/7.32.2",
+    "HRUN-Request-ID": "HRUN-79681552-e162-47aa-8003-7f8219c6e84c-393525"
+}
+json: None
+
+2023-04-24 10:46:33.526 | DEBUG | ====== request details ======
+url: https://api.weixin.qq.com/cgi-bin/tags/get
+method: GET
+params: {
+    "access_token": "67_sy35uYiX1YuVDnokctbtseIKZnT9XAI0SFs3SnIemDRbBVt-vBD2a9Wt-xJu05hiUu32KEOkr8hfqfDS4WskHr6wu6RjM9AiR54zwKjas3aifBbm4Y8Ryuaq4sICADhAEAHFI"
+}
+data: None
+cookies: {}
+timeout: 120
+allow_redirects: True
+verify: False
+headers: {
+    "Postman-Token": "c83ad029-b706-4166-8707-2b98be52346b",
+    "User-Agent": "PostmanRuntime/7.32.2",
+    "HRUN-Request-ID": "HRUN-79681552-e162-47aa-8003-7f8219c6e84c-393525"
+}
+json: None
+
+2023-04-24 10:46:33.526 | DEBUG | ====== request details ======
+url: https://api.weixin.qq.com/cgi-bin/tags/get
+method: GET
+params: {
+    "access_token": "67_sy35uYiX1YuVDnokctbtseIKZnT9XAI0SFs3SnIemDRbBVt-vBD2a9Wt-xJu05hiUu32KEOkr8hfqfDS4WskHr6wu6RjM9AiR54zwKjas3aifBbm4Y8Ryuaq4sICADhAEAHFI"
+}
+data: None
+cookies: {}
+timeout: 120
+allow_redirects: True
+verify: False
+headers: {
+    "Postman-Token": "c83ad029-b706-4166-8707-2b98be52346b",
+    "User-Agent": "PostmanRuntime/7.32.2",
+    "HRUN-Request-ID": "HRUN-79681552-e162-47aa-8003-7f8219c6e84c-393525"
+}
+json: None
+
+2023-04-24 10:46:33.526 | DEBUG | ====== request details ======
+url: https://api.weixin.qq.com/cgi-bin/tags/get
+method: GET
+params: {
+    "access_token": "67_sy35uYiX1YuVDnokctbtseIKZnT9XAI0SFs3SnIemDRbBVt-vBD2a9Wt-xJu05hiUu32KEOkr8hfqfDS4WskHr6wu6RjM9AiR54zwKjas3aifBbm4Y8Ryuaq4sICADhAEAHFI"
+}
+data: None
+cookies: {}
+timeout: 120
+allow_redirects: True
+verify: False
+headers: {
+    "Postman-Token": "c83ad029-b706-4166-8707-2b98be52346b",
+    "User-Agent": "PostmanRuntime/7.32.2",
+    "HRUN-Request-ID": "HRUN-79681552-e162-47aa-8003-7f8219c6e84c-393525"
+}
+json: None
+
+2023-04-24 10:46:33.526 | DEBUG | ====== request details ======
+url: https://api.weixin.qq.com/cgi-bin/tags/get
+method: GET
+params: {
+    "access_token": "67_sy35uYiX1YuVDnokctbtseIKZnT9XAI0SFs3SnIemDRbBVt-vBD2a9Wt-xJu05hiUu32KEOkr8hfqfDS4WskHr6wu6RjM9AiR54zwKjas3aifBbm4Y8Ryuaq4sICADhAEAHFI"
+}
+data: None
+cookies: {}
+timeout: 120
+allow_redirects: True
+verify: False
+headers: {
+    "Postman-Token": "c83ad029-b706-4166-8707-2b98be52346b",
+    "User-Agent": "PostmanRuntime/7.32.2",
+    "HRUN-Request-ID": "HRUN-79681552-e162-47aa-8003-7f8219c6e84c-393525"
+}
+json: None
+
+2023-04-24 10:46:33.664 | DEBUG | client IP: 192.168.180.112, Port: 49630
+2023-04-24 10:46:33.664 | DEBUG | client IP: 192.168.180.112, Port: 49630
+2023-04-24 10:46:33.664 | DEBUG | client IP: 192.168.180.112, Port: 49630
+2023-04-24 10:46:33.664 | DEBUG | client IP: 192.168.180.112, Port: 49630
+2023-04-24 10:46:33.664 | DEBUG | client IP: 192.168.180.112, Port: 49630
+2023-04-24 10:46:33.664 | DEBUG | client IP: 192.168.180.112, Port: 49630
+2023-04-24 10:46:33.665 | DEBUG | server IP: 101.91.37.13, Port: 443
+2023-04-24 10:46:33.665 | DEBUG | server IP: 101.91.37.13, Port: 443
+2023-04-24 10:46:33.665 | DEBUG | server IP: 101.91.37.13, Port: 443
+2023-04-24 10:46:33.665 | DEBUG | server IP: 101.91.37.13, Port: 443
+2023-04-24 10:46:33.665 | DEBUG | server IP: 101.91.37.13, Port: 443
+2023-04-24 10:46:33.665 | DEBUG | server IP: 101.91.37.13, Port: 443
+2023-04-24 10:46:33.665 | DEBUG | 
+================== request details ==================
+method   : GET
+url      : https://api.weixin.qq.com/cgi-bin/tags/get?access_token=67_sy35uYiX1YuVDnokctbtseIKZnT9XAI0SFs3SnIemDRbBVt-vBD2a9Wt-xJu05hiUu32KEOkr8hfqfDS4WskHr6wu6RjM9AiR54zwKjas3aifBbm4Y8Ryuaq4sICADhAEAHFI
+headers  : {
+    "User-Agent": "PostmanRuntime/7.32.2",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Postman-Token": "c83ad029-b706-4166-8707-2b98be52346b",
+    "HRUN-Request-ID": "HRUN-79681552-e162-47aa-8003-7f8219c6e84c-393525"
+}
+cookies  : {}
+body     : None
+
+2023-04-24 10:46:33.665 | DEBUG | 
+================== request details ==================
+method   : GET
+url      : https://api.weixin.qq.com/cgi-bin/tags/get?access_token=67_sy35uYiX1YuVDnokctbtseIKZnT9XAI0SFs3SnIemDRbBVt-vBD2a9Wt-xJu05hiUu32KEOkr8hfqfDS4WskHr6wu6RjM9AiR54zwKjas3aifBbm4Y8Ryuaq4sICADhAEAHFI
+headers  : {
+    "User-Agent": "PostmanRuntime/7.32.2",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Postman-Token": "c83ad029-b706-4166-8707-2b98be52346b",
+    "HRUN-Request-ID": "HRUN-79681552-e162-47aa-8003-7f8219c6e84c-393525"
+}
+cookies  : {}
+body     : None
+
+2023-04-24 10:46:33.665 | DEBUG | 
+================== request details ==================
+method   : GET
+url      : https://api.weixin.qq.com/cgi-bin/tags/get?access_token=67_sy35uYiX1YuVDnokctbtseIKZnT9XAI0SFs3SnIemDRbBVt-vBD2a9Wt-xJu05hiUu32KEOkr8hfqfDS4WskHr6wu6RjM9AiR54zwKjas3aifBbm4Y8Ryuaq4sICADhAEAHFI
+headers  : {
+    "User-Agent": "PostmanRuntime/7.32.2",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Postman-Token": "c83ad029-b706-4166-8707-2b98be52346b",
+    "HRUN-Request-ID": "HRUN-79681552-e162-47aa-8003-7f8219c6e84c-393525"
+}
+cookies  : {}
+body     : None
+
+2023-04-24 10:46:33.665 | DEBUG | 
+================== request details ==================
+method   : GET
+url      : https://api.weixin.qq.com/cgi-bin/tags/get?access_token=67_sy35uYiX1YuVDnokctbtseIKZnT9XAI0SFs3SnIemDRbBVt-vBD2a9Wt-xJu05hiUu32KEOkr8hfqfDS4WskHr6wu6RjM9AiR54zwKjas3aifBbm4Y8Ryuaq4sICADhAEAHFI
+headers  : {
+    "User-Agent": "PostmanRuntime/7.32.2",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Postman-Token": "c83ad029-b706-4166-8707-2b98be52346b",
+    "HRUN-Request-ID": "HRUN-79681552-e162-47aa-8003-7f8219c6e84c-393525"
+}
+cookies  : {}
+body     : None
+
+2023-04-24 10:46:33.665 | DEBUG | 
+================== request details ==================
+method   : GET
+url      : https://api.weixin.qq.com/cgi-bin/tags/get?access_token=67_sy35uYiX1YuVDnokctbtseIKZnT9XAI0SFs3SnIemDRbBVt-vBD2a9Wt-xJu05hiUu32KEOkr8hfqfDS4WskHr6wu6RjM9AiR54zwKjas3aifBbm4Y8Ryuaq4sICADhAEAHFI
+headers  : {
+    "User-Agent": "PostmanRuntime/7.32.2",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Postman-Token": "c83ad029-b706-4166-8707-2b98be52346b",
+    "HRUN-Request-ID": "HRUN-79681552-e162-47aa-8003-7f8219c6e84c-393525"
+}
+cookies  : {}
+body     : None
+
+2023-04-24 10:46:33.665 | DEBUG | 
+================== request details ==================
+method   : GET
+url      : https://api.weixin.qq.com/cgi-bin/tags/get?access_token=67_sy35uYiX1YuVDnokctbtseIKZnT9XAI0SFs3SnIemDRbBVt-vBD2a9Wt-xJu05hiUu32KEOkr8hfqfDS4WskHr6wu6RjM9AiR54zwKjas3aifBbm4Y8Ryuaq4sICADhAEAHFI
+headers  : {
+    "User-Agent": "PostmanRuntime/7.32.2",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Postman-Token": "c83ad029-b706-4166-8707-2b98be52346b",
+    "HRUN-Request-ID": "HRUN-79681552-e162-47aa-8003-7f8219c6e84c-393525"
+}
+cookies  : {}
+body     : None
+
+2023-04-24 10:46:33.666 | DEBUG | 
+================== response details ==================
+status_code : 200
+headers  : {
+    "Connection": "keep-alive",
+    "Content-Type": "application/json; encoding=utf-8",
+    "Date": "Mon, 24 Apr 2023 02:46:34 GMT",
+    "Content-Encoding": "gzip",
+    "Content-Length": "318"
+}
+cookies  : {}
+encoding : utf-8
+content_type : application/json; encoding=utf-8
+body     : {
+    "tags": [
+        {
+            "id": 2,
+            "name": "星标组",
+            "count": 0
+        },
+        {
+            "id": 101,
+            "name": "广东人1676514245984",
+            "count": 0
+        },
+        {
+            "id": 102,
+            "name": "木子1676513345",
+            "count": 0
+        },
+        {
+            "id": 103,
+            "name": "木子1676513371",
+            "count": 0
+        },
+        {
+            "id": 104,
+            "name": "木子{{$randomint}} ",
+            "count": 0
+        },
+        {
+            "id": 105,
+            "name": "木子831",
+            "count": 0
+        },
+        {
+            "id": 106,
+            "name": "木子124",
+            "count": 0
+        },
+        {
+            "id": 107,
+            "name": "木子366",
+            "count": 0
+        },
+        {
+            "id": 108,
+            "name": "木子832",
+            "count": 0
+        },
+        {
+            "id": 109,
+            "name": "木子{{$times}}",
+            "count": 0
+        },
+        {
+            "id": 110,
+            "name": "木子1676513627427",
+            "count": 0
+        },
+        {
+            "id": 111,
+            "name": "木子1676514495597",
+            "count": 0
+        },
+        {
+            "id": 112,
+            "name": "木子1676514527259",
+            "count": 0
+        },
+        {
+            "id": 113,
+            "name": "木子1676514576170",
+            "count": 0
+        },
+        {
+            "id": 114,
+            "name": "木子1676514624092",
+            "count": 0
+        },
+        {
+            "id": 115,
+            "name": "木子1676514647919",
+            "count": 0
+        },
+        {
+            "id": 116,
+            "name": "木子1676514672026",
+            "count": 0
+        },
+        {
+            "id": 117,
+            "name": "木子1676514679445",
+            "count": 0
+        },
+        {
+            "id": 119,
+            "name": "木子1676515325219",
+            "count": 0
+        },
+        {
+            "id": 120,
+            "name": "木子1676515879149",
+            "count": 0
+        },
+        {
+            "id": 121,
+            "name": "木子1676515925099",
+            "count": 0
+        },
+        {
+            "id": 122,
+            "name": "木子1676515980297",
+            "count": 0
+        },
+        {
+            "id": 123,
+            "name": "木子1676516029506",
+            "count": 0
+        },
+        {
+            "id": 130,
+            "name": "木子1676519734756",
+            "count": 0
+        },
+        {
+            "id": 162,
+            "name": "广东人1682300841044",
+            "count": 0
+        }
+    ]
+}
+
+2023-04-24 10:46:33.666 | DEBUG | 
+================== response details ==================
+status_code : 200
+headers  : {
+    "Connection": "keep-alive",
+    "Content-Type": "application/json; encoding=utf-8",
+    "Date": "Mon, 24 Apr 2023 02:46:34 GMT",
+    "Content-Encoding": "gzip",
+    "Content-Length": "318"
+}
+cookies  : {}
+encoding : utf-8
+content_type : application/json; encoding=utf-8
+body     : {
+    "tags": [
+        {
+            "id": 2,
+            "name": "星标组",
+            "count": 0
+        },
+        {
+            "id": 101,
+            "name": "广东人1676514245984",
+            "count": 0
+        },
+        {
+            "id": 102,
+            "name": "木子1676513345",
+            "count": 0
+        },
+        {
+            "id": 103,
+            "name": "木子1676513371",
+            "count": 0
+        },
+        {
+            "id": 104,
+            "name": "木子{{$randomint}} ",
+            "count": 0
+        },
+        {
+            "id": 105,
+            "name": "木子831",
+            "count": 0
+        },
+        {
+            "id": 106,
+            "name": "木子124",
+            "count": 0
+        },
+        {
+            "id": 107,
+            "name": "木子366",
+            "count": 0
+        },
+        {
+            "id": 108,
+            "name": "木子832",
+            "count": 0
+        },
+        {
+            "id": 109,
+            "name": "木子{{$times}}",
+            "count": 0
+        },
+        {
+            "id": 110,
+            "name": "木子1676513627427",
+            "count": 0
+        },
+        {
+            "id": 111,
+            "name": "木子1676514495597",
+            "count": 0
+        },
+        {
+            "id": 112,
+            "name": "木子1676514527259",
+            "count": 0
+        },
+        {
+            "id": 113,
+            "name": "木子1676514576170",
+            "count": 0
+        },
+        {
+            "id": 114,
+            "name": "木子1676514624092",
+            "count": 0
+        },
+        {
+            "id": 115,
+            "name": "木子1676514647919",
+            "count": 0
+        },
+        {
+            "id": 116,
+            "name": "木子1676514672026",
+            "count": 0
+        },
+        {
+            "id": 117,
+            "name": "木子1676514679445",
+            "count": 0
+        },
+        {
+            "id": 119,
+            "name": "木子1676515325219",
+            "count": 0
+        },
+        {
+            "id": 120,
+            "name": "木子1676515879149",
+            "count": 0
+        },
+        {
+            "id": 121,
+            "name": "木子1676515925099",
+            "count": 0
+        },
+        {
+            "id": 122,
+            "name": "木子1676515980297",
+            "count": 0
+        },
+        {
+            "id": 123,
+            "name": "木子1676516029506",
+            "count": 0
+        },
+        {
+            "id": 130,
+            "name": "木子1676519734756",
+            "count": 0
+        },
+        {
+            "id": 162,
+            "name": "广东人1682300841044",
+            "count": 0
+        }
+    ]
+}
+
+2023-04-24 10:46:33.666 | DEBUG | 
+================== response details ==================
+status_code : 200
+headers  : {
+    "Connection": "keep-alive",
+    "Content-Type": "application/json; encoding=utf-8",
+    "Date": "Mon, 24 Apr 2023 02:46:34 GMT",
+    "Content-Encoding": "gzip",
+    "Content-Length": "318"
+}
+cookies  : {}
+encoding : utf-8
+content_type : application/json; encoding=utf-8
+body     : {
+    "tags": [
+        {
+            "id": 2,
+            "name": "星标组",
+            "count": 0
+        },
+        {
+            "id": 101,
+            "name": "广东人1676514245984",
+            "count": 0
+        },
+        {
+            "id": 102,
+            "name": "木子1676513345",
+            "count": 0
+        },
+        {
+            "id": 103,
+            "name": "木子1676513371",
+            "count": 0
+        },
+        {
+            "id": 104,
+            "name": "木子{{$randomint}} ",
+            "count": 0
+        },
+        {
+            "id": 105,
+            "name": "木子831",
+            "count": 0
+        },
+        {
+            "id": 106,
+            "name": "木子124",
+            "count": 0
+        },
+        {
+            "id": 107,
+            "name": "木子366",
+            "count": 0
+        },
+        {
+            "id": 108,
+            "name": "木子832",
+            "count": 0
+        },
+        {
+            "id": 109,
+            "name": "木子{{$times}}",
+            "count": 0
+        },
+        {
+            "id": 110,
+            "name": "木子1676513627427",
+            "count": 0
+        },
+        {
+            "id": 111,
+            "name": "木子1676514495597",
+            "count": 0
+        },
+        {
+            "id": 112,
+            "name": "木子1676514527259",
+            "count": 0
+        },
+        {
+            "id": 113,
+            "name": "木子1676514576170",
+            "count": 0
+        },
+        {
+            "id": 114,
+            "name": "木子1676514624092",
+            "count": 0
+        },
+        {
+            "id": 115,
+            "name": "木子1676514647919",
+            "count": 0
+        },
+        {
+            "id": 116,
+            "name": "木子1676514672026",
+            "count": 0
+        },
+        {
+            "id": 117,
+            "name": "木子1676514679445",
+            "count": 0
+        },
+        {
+            "id": 119,
+            "name": "木子1676515325219",
+            "count": 0
+        },
+        {
+            "id": 120,
+            "name": "木子1676515879149",
+            "count": 0
+        },
+        {
+            "id": 121,
+            "name": "木子1676515925099",
+            "count": 0
+        },
+        {
+            "id": 122,
+            "name": "木子1676515980297",
+            "count": 0
+        },
+        {
+            "id": 123,
+            "name": "木子1676516029506",
+            "count": 0
+        },
+        {
+            "id": 130,
+            "name": "木子1676519734756",
+            "count": 0
+        },
+        {
+            "id": 162,
+            "name": "广东人1682300841044",
+            "count": 0
+        }
+    ]
+}
+
+2023-04-24 10:46:33.666 | DEBUG | 
+================== response details ==================
+status_code : 200
+headers  : {
+    "Connection": "keep-alive",
+    "Content-Type": "application/json; encoding=utf-8",
+    "Date": "Mon, 24 Apr 2023 02:46:34 GMT",
+    "Content-Encoding": "gzip",
+    "Content-Length": "318"
+}
+cookies  : {}
+encoding : utf-8
+content_type : application/json; encoding=utf-8
+body     : {
+    "tags": [
+        {
+            "id": 2,
+            "name": "星标组",
+            "count": 0
+        },
+        {
+            "id": 101,
+            "name": "广东人1676514245984",
+            "count": 0
+        },
+        {
+            "id": 102,
+            "name": "木子1676513345",
+            "count": 0
+        },
+        {
+            "id": 103,
+            "name": "木子1676513371",
+            "count": 0
+        },
+        {
+            "id": 104,
+            "name": "木子{{$randomint}} ",
+            "count": 0
+        },
+        {
+            "id": 105,
+            "name": "木子831",
+            "count": 0
+        },
+        {
+            "id": 106,
+            "name": "木子124",
+            "count": 0
+        },
+        {
+            "id": 107,
+            "name": "木子366",
+            "count": 0
+        },
+        {
+            "id": 108,
+            "name": "木子832",
+            "count": 0
+        },
+        {
+            "id": 109,
+            "name": "木子{{$times}}",
+            "count": 0
+        },
+        {
+            "id": 110,
+            "name": "木子1676513627427",
+            "count": 0
+        },
+        {
+            "id": 111,
+            "name": "木子1676514495597",
+            "count": 0
+        },
+        {
+            "id": 112,
+            "name": "木子1676514527259",
+            "count": 0
+        },
+        {
+            "id": 113,
+            "name": "木子1676514576170",
+            "count": 0
+        },
+        {
+            "id": 114,
+            "name": "木子1676514624092",
+            "count": 0
+        },
+        {
+            "id": 115,
+            "name": "木子1676514647919",
+            "count": 0
+        },
+        {
+            "id": 116,
+            "name": "木子1676514672026",
+            "count": 0
+        },
+        {
+            "id": 117,
+            "name": "木子1676514679445",
+            "count": 0
+        },
+        {
+            "id": 119,
+            "name": "木子1676515325219",
+            "count": 0
+        },
+        {
+            "id": 120,
+            "name": "木子1676515879149",
+            "count": 0
+        },
+        {
+            "id": 121,
+            "name": "木子1676515925099",
+            "count": 0
+        },
+        {
+            "id": 122,
+            "name": "木子1676515980297",
+            "count": 0
+        },
+        {
+            "id": 123,
+            "name": "木子1676516029506",
+            "count": 0
+        },
+        {
+            "id": 130,
+            "name": "木子1676519734756",
+            "count": 0
+        },
+        {
+            "id": 162,
+            "name": "广东人1682300841044",
+            "count": 0
+        }
+    ]
+}
+
+2023-04-24 10:46:33.666 | DEBUG | 
+================== response details ==================
+status_code : 200
+headers  : {
+    "Connection": "keep-alive",
+    "Content-Type": "application/json; encoding=utf-8",
+    "Date": "Mon, 24 Apr 2023 02:46:34 GMT",
+    "Content-Encoding": "gzip",
+    "Content-Length": "318"
+}
+cookies  : {}
+encoding : utf-8
+content_type : application/json; encoding=utf-8
+body     : {
+    "tags": [
+        {
+            "id": 2,
+            "name": "星标组",
+            "count": 0
+        },
+        {
+            "id": 101,
+            "name": "广东人1676514245984",
+            "count": 0
+        },
+        {
+            "id": 102,
+            "name": "木子1676513345",
+            "count": 0
+        },
+        {
+            "id": 103,
+            "name": "木子1676513371",
+            "count": 0
+        },
+        {
+            "id": 104,
+            "name": "木子{{$randomint}} ",
+            "count": 0
+        },
+        {
+            "id": 105,
+            "name": "木子831",
+            "count": 0
+        },
+        {
+            "id": 106,
+            "name": "木子124",
+            "count": 0
+        },
+        {
+            "id": 107,
+            "name": "木子366",
+            "count": 0
+        },
+        {
+            "id": 108,
+            "name": "木子832",
+            "count": 0
+        },
+        {
+            "id": 109,
+            "name": "木子{{$times}}",
+            "count": 0
+        },
+        {
+            "id": 110,
+            "name": "木子1676513627427",
+            "count": 0
+        },
+        {
+            "id": 111,
+            "name": "木子1676514495597",
+            "count": 0
+        },
+        {
+            "id": 112,
+            "name": "木子1676514527259",
+            "count": 0
+        },
+        {
+            "id": 113,
+            "name": "木子1676514576170",
+            "count": 0
+        },
+        {
+            "id": 114,
+            "name": "木子1676514624092",
+            "count": 0
+        },
+        {
+            "id": 115,
+            "name": "木子1676514647919",
+            "count": 0
+        },
+        {
+            "id": 116,
+            "name": "木子1676514672026",
+            "count": 0
+        },
+        {
+            "id": 117,
+            "name": "木子1676514679445",
+            "count": 0
+        },
+        {
+            "id": 119,
+            "name": "木子1676515325219",
+            "count": 0
+        },
+        {
+            "id": 120,
+            "name": "木子1676515879149",
+            "count": 0
+        },
+        {
+            "id": 121,
+            "name": "木子1676515925099",
+            "count": 0
+        },
+        {
+            "id": 122,
+            "name": "木子1676515980297",
+            "count": 0
+        },
+        {
+            "id": 123,
+            "name": "木子1676516029506",
+            "count": 0
+        },
+        {
+            "id": 130,
+            "name": "木子1676519734756",
+            "count": 0
+        },
+        {
+            "id": 162,
+            "name": "广东人1682300841044",
+            "count": 0
+        }
+    ]
+}
+
+2023-04-24 10:46:33.666 | DEBUG | 
+================== response details ==================
+status_code : 200
+headers  : {
+    "Connection": "keep-alive",
+    "Content-Type": "application/json; encoding=utf-8",
+    "Date": "Mon, 24 Apr 2023 02:46:34 GMT",
+    "Content-Encoding": "gzip",
+    "Content-Length": "318"
+}
+cookies  : {}
+encoding : utf-8
+content_type : application/json; encoding=utf-8
+body     : {
+    "tags": [
+        {
+            "id": 2,
+            "name": "星标组",
+            "count": 0
+        },
+        {
+            "id": 101,
+            "name": "广东人1676514245984",
+            "count": 0
+        },
+        {
+            "id": 102,
+            "name": "木子1676513345",
+            "count": 0
+        },
+        {
+            "id": 103,
+            "name": "木子1676513371",
+            "count": 0
+        },
+        {
+            "id": 104,
+            "name": "木子{{$randomint}} ",
+            "count": 0
+        },
+        {
+            "id": 105,
+            "name": "木子831",
+            "count": 0
+        },
+        {
+            "id": 106,
+            "name": "木子124",
+            "count": 0
+        },
+        {
+            "id": 107,
+            "name": "木子366",
+            "count": 0
+        },
+        {
+            "id": 108,
+            "name": "木子832",
+            "count": 0
+        },
+        {
+            "id": 109,
+            "name": "木子{{$times}}",
+            "count": 0
+        },
+        {
+            "id": 110,
+            "name": "木子1676513627427",
+            "count": 0
+        },
+        {
+            "id": 111,
+            "name": "木子1676514495597",
+            "count": 0
+        },
+        {
+            "id": 112,
+            "name": "木子1676514527259",
+            "count": 0
+        },
+        {
+            "id": 113,
+            "name": "木子1676514576170",
+            "count": 0
+        },
+        {
+            "id": 114,
+            "name": "木子1676514624092",
+            "count": 0
+        },
+        {
+            "id": 115,
+            "name": "木子1676514647919",
+            "count": 0
+        },
+        {
+            "id": 116,
+            "name": "木子1676514672026",
+            "count": 0
+        },
+        {
+            "id": 117,
+            "name": "木子1676514679445",
+            "count": 0
+        },
+        {
+            "id": 119,
+            "name": "木子1676515325219",
+            "count": 0
+        },
+        {
+            "id": 120,
+            "name": "木子1676515879149",
+            "count": 0
+        },
+        {
+            "id": 121,
+            "name": "木子1676515925099",
+            "count": 0
+        },
+        {
+            "id": 122,
+            "name": "木子1676515980297",
+            "count": 0
+        },
+        {
+            "id": 123,
+            "name": "木子1676516029506",
+            "count": 0
+        },
+        {
+            "id": 130,
+            "name": "木子1676519734756",
+            "count": 0
+        },
+        {
+            "id": 162,
+            "name": "广东人1682300841044",
+            "count": 0
+        }
+    ]
+}
+
+2023-04-24 10:46:33.666 | INFO | status_code: 200, response_time(ms): 137.43 ms, response_length: 0 bytes
+2023-04-24 10:46:33.666 | INFO | status_code: 200, response_time(ms): 137.43 ms, response_length: 0 bytes
+2023-04-24 10:46:33.666 | INFO | status_code: 200, response_time(ms): 137.43 ms, response_length: 0 bytes
+2023-04-24 10:46:33.666 | INFO | status_code: 200, response_time(ms): 137.43 ms, response_length: 0 bytes
+2023-04-24 10:46:33.666 | INFO | status_code: 200, response_time(ms): 137.43 ms, response_length: 0 bytes
+2023-04-24 10:46:33.666 | INFO | status_code: 200, response_time(ms): 137.43 ms, response_length: 0 bytes
+2023-04-24 10:46:33.668 | DEBUG | ====== response details ======
+status_code: 200
+headers: {
+    "Connection": "keep-alive",
+    "Content-Type": "application/json; encoding=utf-8",
+    "Date": "Mon, 24 Apr 2023 02:46:34 GMT",
+    "Content-Encoding": "gzip",
+    "Content-Length": "318"
+}
+body: {
+    "tags": [
+        {
+            "id": 2,
+            "name": "星标组",
+            "count": 0
+        },
+        {
+            "id": 101,
+            "name": "广东人1676514245984",
+            "count": 0
+        },
+        {
+            "id": 102,
+            "name": "木子1676513345",
+            "count": 0
+        },
+        {
+            "id": 103,
+            "name": "木子1676513371",
+            "count": 0
+        },
+        {
+            "id": 104,
+            "name": "木子{{$randomint}} ",
+            "count": 0
+        },
+        {
+            "id": 105,
+            "name": "木子831",
+            "count": 0
+        },
+        {
+            "id": 106,
+            "name": "木子124",
+            "count": 0
+        },
+        {
+            "id": 107,
+            "name": "木子366",
+            "count": 0
+        },
+        {
+            "id": 108,
+            "name": "木子832",
+            "count": 0
+        },
+        {
+            "id": 109,
+            "name": "木子{{$times}}",
+            "count": 0
+        },
+        {
+            "id": 110,
+            "name": "木子1676513627427",
+            "count": 0
+        },
+        {
+            "id": 111,
+            "name": "木子1676514495597",
+            "count": 0
+        },
+        {
+            "id": 112,
+            "name": "木子1676514527259",
+            "count": 0
+        },
+        {
+            "id": 113,
+            "name": "木子1676514576170",
+            "count": 0
+        },
+        {
+            "id": 114,
+            "name": "木子1676514624092",
+            "count": 0
+        },
+        {
+            "id": 115,
+            "name": "木子1676514647919",
+            "count": 0
+        },
+        {
+            "id": 116,
+            "name": "木子1676514672026",
+            "count": 0
+        },
+        {
+            "id": 117,
+            "name": "木子1676514679445",
+            "count": 0
+        },
+        {
+            "id": 119,
+            "name": "木子1676515325219",
+            "count": 0
+        },
+        {
+            "id": 120,
+            "name": "木子1676515879149",
+            "count": 0
+        },
+        {
+            "id": 121,
+            "name": "木子1676515925099",
+            "count": 0
+        },
+        {
+            "id": 122,
+            "name": "木子1676515980297",
+            "count": 0
+        },
+        {
+            "id": 123,
+            "name": "木子1676516029506",
+            "count": 0
+        },
+        {
+            "id": 130,
+            "name": "木子1676519734756",
+            "count": 0
+        },
+        {
+            "id": 162,
+            "name": "广东人1682300841044",
+            "count": 0
+        }
+    ]
+}
+
+2023-04-24 10:46:33.668 | DEBUG | ====== response details ======
+status_code: 200
+headers: {
+    "Connection": "keep-alive",
+    "Content-Type": "application/json; encoding=utf-8",
+    "Date": "Mon, 24 Apr 2023 02:46:34 GMT",
+    "Content-Encoding": "gzip",
+    "Content-Length": "318"
+}
+body: {
+    "tags": [
+        {
+            "id": 2,
+            "name": "星标组",
+            "count": 0
+        },
+        {
+            "id": 101,
+            "name": "广东人1676514245984",
+            "count": 0
+        },
+        {
+            "id": 102,
+            "name": "木子1676513345",
+            "count": 0
+        },
+        {
+            "id": 103,
+            "name": "木子1676513371",
+            "count": 0
+        },
+        {
+            "id": 104,
+            "name": "木子{{$randomint}} ",
+            "count": 0
+        },
+        {
+            "id": 105,
+            "name": "木子831",
+            "count": 0
+        },
+        {
+            "id": 106,
+            "name": "木子124",
+            "count": 0
+        },
+        {
+            "id": 107,
+            "name": "木子366",
+            "count": 0
+        },
+        {
+            "id": 108,
+            "name": "木子832",
+            "count": 0
+        },
+        {
+            "id": 109,
+            "name": "木子{{$times}}",
+            "count": 0
+        },
+        {
+            "id": 110,
+            "name": "木子1676513627427",
+            "count": 0
+        },
+        {
+            "id": 111,
+            "name": "木子1676514495597",
+            "count": 0
+        },
+        {
+            "id": 112,
+            "name": "木子1676514527259",
+            "count": 0
+        },
+        {
+            "id": 113,
+            "name": "木子1676514576170",
+            "count": 0
+        },
+        {
+            "id": 114,
+            "name": "木子1676514624092",
+            "count": 0
+        },
+        {
+            "id": 115,
+            "name": "木子1676514647919",
+            "count": 0
+        },
+        {
+            "id": 116,
+            "name": "木子1676514672026",
+            "count": 0
+        },
+        {
+            "id": 117,
+            "name": "木子1676514679445",
+            "count": 0
+        },
+        {
+            "id": 119,
+            "name": "木子1676515325219",
+            "count": 0
+        },
+        {
+            "id": 120,
+            "name": "木子1676515879149",
+            "count": 0
+        },
+        {
+            "id": 121,
+            "name": "木子1676515925099",
+            "count": 0
+        },
+        {
+            "id": 122,
+            "name": "木子1676515980297",
+            "count": 0
+        },
+        {
+            "id": 123,
+            "name": "木子1676516029506",
+            "count": 0
+        },
+        {
+            "id": 130,
+            "name": "木子1676519734756",
+            "count": 0
+        },
+        {
+            "id": 162,
+            "name": "广东人1682300841044",
+            "count": 0
+        }
+    ]
+}
+
+2023-04-24 10:46:33.668 | DEBUG | ====== response details ======
+status_code: 200
+headers: {
+    "Connection": "keep-alive",
+    "Content-Type": "application/json; encoding=utf-8",
+    "Date": "Mon, 24 Apr 2023 02:46:34 GMT",
+    "Content-Encoding": "gzip",
+    "Content-Length": "318"
+}
+body: {
+    "tags": [
+        {
+            "id": 2,
+            "name": "星标组",
+            "count": 0
+        },
+        {
+            "id": 101,
+            "name": "广东人1676514245984",
+            "count": 0
+        },
+        {
+            "id": 102,
+            "name": "木子1676513345",
+            "count": 0
+        },
+        {
+            "id": 103,
+            "name": "木子1676513371",
+            "count": 0
+        },
+        {
+            "id": 104,
+            "name": "木子{{$randomint}} ",
+            "count": 0
+        },
+        {
+            "id": 105,
+            "name": "木子831",
+            "count": 0
+        },
+        {
+            "id": 106,
+            "name": "木子124",
+            "count": 0
+        },
+        {
+            "id": 107,
+            "name": "木子366",
+            "count": 0
+        },
+        {
+            "id": 108,
+            "name": "木子832",
+            "count": 0
+        },
+        {
+            "id": 109,
+            "name": "木子{{$times}}",
+            "count": 0
+        },
+        {
+            "id": 110,
+            "name": "木子1676513627427",
+            "count": 0
+        },
+        {
+            "id": 111,
+            "name": "木子1676514495597",
+            "count": 0
+        },
+        {
+            "id": 112,
+            "name": "木子1676514527259",
+            "count": 0
+        },
+        {
+            "id": 113,
+            "name": "木子1676514576170",
+            "count": 0
+        },
+        {
+            "id": 114,
+            "name": "木子1676514624092",
+            "count": 0
+        },
+        {
+            "id": 115,
+            "name": "木子1676514647919",
+            "count": 0
+        },
+        {
+            "id": 116,
+            "name": "木子1676514672026",
+            "count": 0
+        },
+        {
+            "id": 117,
+            "name": "木子1676514679445",
+            "count": 0
+        },
+        {
+            "id": 119,
+            "name": "木子1676515325219",
+            "count": 0
+        },
+        {
+            "id": 120,
+            "name": "木子1676515879149",
+            "count": 0
+        },
+        {
+            "id": 121,
+            "name": "木子1676515925099",
+            "count": 0
+        },
+        {
+            "id": 122,
+            "name": "木子1676515980297",
+            "count": 0
+        },
+        {
+            "id": 123,
+            "name": "木子1676516029506",
+            "count": 0
+        },
+        {
+            "id": 130,
+            "name": "木子1676519734756",
+            "count": 0
+        },
+        {
+            "id": 162,
+            "name": "广东人1682300841044",
+            "count": 0
+        }
+    ]
+}
+
+2023-04-24 10:46:33.668 | DEBUG | ====== response details ======
+status_code: 200
+headers: {
+    "Connection": "keep-alive",
+    "Content-Type": "application/json; encoding=utf-8",
+    "Date": "Mon, 24 Apr 2023 02:46:34 GMT",
+    "Content-Encoding": "gzip",
+    "Content-Length": "318"
+}
+body: {
+    "tags": [
+        {
+            "id": 2,
+            "name": "星标组",
+            "count": 0
+        },
+        {
+            "id": 101,
+            "name": "广东人1676514245984",
+            "count": 0
+        },
+        {
+            "id": 102,
+            "name": "木子1676513345",
+            "count": 0
+        },
+        {
+            "id": 103,
+            "name": "木子1676513371",
+            "count": 0
+        },
+        {
+            "id": 104,
+            "name": "木子{{$randomint}} ",
+            "count": 0
+        },
+        {
+            "id": 105,
+            "name": "木子831",
+            "count": 0
+        },
+        {
+            "id": 106,
+            "name": "木子124",
+            "count": 0
+        },
+        {
+            "id": 107,
+            "name": "木子366",
+            "count": 0
+        },
+        {
+            "id": 108,
+            "name": "木子832",
+            "count": 0
+        },
+        {
+            "id": 109,
+            "name": "木子{{$times}}",
+            "count": 0
+        },
+        {
+            "id": 110,
+            "name": "木子1676513627427",
+            "count": 0
+        },
+        {
+            "id": 111,
+            "name": "木子1676514495597",
+            "count": 0
+        },
+        {
+            "id": 112,
+            "name": "木子1676514527259",
+            "count": 0
+        },
+        {
+            "id": 113,
+            "name": "木子1676514576170",
+            "count": 0
+        },
+        {
+            "id": 114,
+            "name": "木子1676514624092",
+            "count": 0
+        },
+        {
+            "id": 115,
+            "name": "木子1676514647919",
+            "count": 0
+        },
+        {
+            "id": 116,
+            "name": "木子1676514672026",
+            "count": 0
+        },
+        {
+            "id": 117,
+            "name": "木子1676514679445",
+            "count": 0
+        },
+        {
+            "id": 119,
+            "name": "木子1676515325219",
+            "count": 0
+        },
+        {
+            "id": 120,
+            "name": "木子1676515879149",
+            "count": 0
+        },
+        {
+            "id": 121,
+            "name": "木子1676515925099",
+            "count": 0
+        },
+        {
+            "id": 122,
+            "name": "木子1676515980297",
+            "count": 0
+        },
+        {
+            "id": 123,
+            "name": "木子1676516029506",
+            "count": 0
+        },
+        {
+            "id": 130,
+            "name": "木子1676519734756",
+            "count": 0
+        },
+        {
+            "id": 162,
+            "name": "广东人1682300841044",
+            "count": 0
+        }
+    ]
+}
+
+2023-04-24 10:46:33.668 | DEBUG | ====== response details ======
+status_code: 200
+headers: {
+    "Connection": "keep-alive",
+    "Content-Type": "application/json; encoding=utf-8",
+    "Date": "Mon, 24 Apr 2023 02:46:34 GMT",
+    "Content-Encoding": "gzip",
+    "Content-Length": "318"
+}
+body: {
+    "tags": [
+        {
+            "id": 2,
+            "name": "星标组",
+            "count": 0
+        },
+        {
+            "id": 101,
+            "name": "广东人1676514245984",
+            "count": 0
+        },
+        {
+            "id": 102,
+            "name": "木子1676513345",
+            "count": 0
+        },
+        {
+            "id": 103,
+            "name": "木子1676513371",
+            "count": 0
+        },
+        {
+            "id": 104,
+            "name": "木子{{$randomint}} ",
+            "count": 0
+        },
+        {
+            "id": 105,
+            "name": "木子831",
+            "count": 0
+        },
+        {
+            "id": 106,
+            "name": "木子124",
+            "count": 0
+        },
+        {
+            "id": 107,
+            "name": "木子366",
+            "count": 0
+        },
+        {
+            "id": 108,
+            "name": "木子832",
+            "count": 0
+        },
+        {
+            "id": 109,
+            "name": "木子{{$times}}",
+            "count": 0
+        },
+        {
+            "id": 110,
+            "name": "木子1676513627427",
+            "count": 0
+        },
+        {
+            "id": 111,
+            "name": "木子1676514495597",
+            "count": 0
+        },
+        {
+            "id": 112,
+            "name": "木子1676514527259",
+            "count": 0
+        },
+        {
+            "id": 113,
+            "name": "木子1676514576170",
+            "count": 0
+        },
+        {
+            "id": 114,
+            "name": "木子1676514624092",
+            "count": 0
+        },
+        {
+            "id": 115,
+            "name": "木子1676514647919",
+            "count": 0
+        },
+        {
+            "id": 116,
+            "name": "木子1676514672026",
+            "count": 0
+        },
+        {
+            "id": 117,
+            "name": "木子1676514679445",
+            "count": 0
+        },
+        {
+            "id": 119,
+            "name": "木子1676515325219",
+            "count": 0
+        },
+        {
+            "id": 120,
+            "name": "木子1676515879149",
+            "count": 0
+        },
+        {
+            "id": 121,
+            "name": "木子1676515925099",
+            "count": 0
+        },
+        {
+            "id": 122,
+            "name": "木子1676515980297",
+            "count": 0
+        },
+        {
+            "id": 123,
+            "name": "木子1676516029506",
+            "count": 0
+        },
+        {
+            "id": 130,
+            "name": "木子1676519734756",
+            "count": 0
+        },
+        {
+            "id": 162,
+            "name": "广东人1682300841044",
+            "count": 0
+        }
+    ]
+}
+
+2023-04-24 10:46:33.668 | DEBUG | ====== response details ======
+status_code: 200
+headers: {
+    "Connection": "keep-alive",
+    "Content-Type": "application/json; encoding=utf-8",
+    "Date": "Mon, 24 Apr 2023 02:46:34 GMT",
+    "Content-Encoding": "gzip",
+    "Content-Length": "318"
+}
+body: {
+    "tags": [
+        {
+            "id": 2,
+            "name": "星标组",
+            "count": 0
+        },
+        {
+            "id": 101,
+            "name": "广东人1676514245984",
+            "count": 0
+        },
+        {
+            "id": 102,
+            "name": "木子1676513345",
+            "count": 0
+        },
+        {
+            "id": 103,
+            "name": "木子1676513371",
+            "count": 0
+        },
+        {
+            "id": 104,
+            "name": "木子{{$randomint}} ",
+            "count": 0
+        },
+        {
+            "id": 105,
+            "name": "木子831",
+            "count": 0
+        },
+        {
+            "id": 106,
+            "name": "木子124",
+            "count": 0
+        },
+        {
+            "id": 107,
+            "name": "木子366",
+            "count": 0
+        },
+        {
+            "id": 108,
+            "name": "木子832",
+            "count": 0
+        },
+        {
+            "id": 109,
+            "name": "木子{{$times}}",
+            "count": 0
+        },
+        {
+            "id": 110,
+            "name": "木子1676513627427",
+            "count": 0
+        },
+        {
+            "id": 111,
+            "name": "木子1676514495597",
+            "count": 0
+        },
+        {
+            "id": 112,
+            "name": "木子1676514527259",
+            "count": 0
+        },
+        {
+            "id": 113,
+            "name": "木子1676514576170",
+            "count": 0
+        },
+        {
+            "id": 114,
+            "name": "木子1676514624092",
+            "count": 0
+        },
+        {
+            "id": 115,
+            "name": "木子1676514647919",
+            "count": 0
+        },
+        {
+            "id": 116,
+            "name": "木子1676514672026",
+            "count": 0
+        },
+        {
+            "id": 117,
+            "name": "木子1676514679445",
+            "count": 0
+        },
+        {
+            "id": 119,
+            "name": "木子1676515325219",
+            "count": 0
+        },
+        {
+            "id": 120,
+            "name": "木子1676515879149",
+            "count": 0
+        },
+        {
+            "id": 121,
+            "name": "木子1676515925099",
+            "count": 0
+        },
+        {
+            "id": 122,
+            "name": "木子1676515980297",
+            "count": 0
+        },
+        {
+            "id": 123,
+            "name": "木子1676516029506",
+            "count": 0
+        },
+        {
+            "id": 130,
+            "name": "木子1676519734756",
+            "count": 0
+        },
+        {
+            "id": 162,
+            "name": "广东人1682300841044",
+            "count": 0
+        }
+    ]
+}
+
+2023-04-24 10:46:33.669 | INFO | assert status_code equal 200(int)	==> pass
+2023-04-24 10:46:33.669 | INFO | assert status_code equal 200(int)	==> pass
+2023-04-24 10:46:33.669 | INFO | assert status_code equal 200(int)	==> pass
+2023-04-24 10:46:33.669 | INFO | assert status_code equal 200(int)	==> pass
+2023-04-24 10:46:33.669 | INFO | assert status_code equal 200(int)	==> pass
+2023-04-24 10:46:33.669 | INFO | assert status_code equal 200(int)	==> pass
+2023-04-24 10:46:33.670 | INFO | assert headers."Content-Type" equal application/json; encoding=utf-8(str)	==> pass
+2023-04-24 10:46:33.670 | INFO | assert headers."Content-Type" equal application/json; encoding=utf-8(str)	==> pass
+2023-04-24 10:46:33.670 | INFO | assert headers."Content-Type" equal application/json; encoding=utf-8(str)	==> pass
+2023-04-24 10:46:33.670 | INFO | assert headers."Content-Type" equal application/json; encoding=utf-8(str)	==> pass
+2023-04-24 10:46:33.670 | INFO | assert headers."Content-Type" equal application/json; encoding=utf-8(str)	==> pass
+2023-04-24 10:46:33.670 | INFO | assert headers."Content-Type" equal application/json; encoding=utf-8(str)	==> pass
+2023-04-24 10:46:33.671 | INFO | run step end: /cgi-bin/tags/get <<<<<<
+
+2023-04-24 10:46:33.671 | INFO | run step end: /cgi-bin/tags/get <<<<<<
+
+2023-04-24 10:46:33.671 | INFO | run step end: /cgi-bin/tags/get <<<<<<
+
+2023-04-24 10:46:33.671 | INFO | run step end: /cgi-bin/tags/get <<<<<<
+
+2023-04-24 10:46:33.671 | INFO | run step end: /cgi-bin/tags/get <<<<<<
+
+2023-04-24 10:46:33.671 | INFO | run step end: /cgi-bin/tags/get <<<<<<
+
+2023-04-24 10:46:33.672 | INFO | generate testcase log: D:\workspace\http-frame\logs\79681552-e162-47aa-8003-7f8219c6e84c.run.log
+2023-04-24 10:46:33.672 | INFO | generate testcase log: D:\workspace\http-frame\logs\79681552-e162-47aa-8003-7f8219c6e84c.run.log
+2023-04-24 10:46:33.672 | INFO | generate testcase log: D:\workspace\http-frame\logs\79681552-e162-47aa-8003-7f8219c6e84c.run.log
+2023-04-24 10:46:33.672 | INFO | generate testcase log: D:\workspace\http-frame\logs\79681552-e162-47aa-8003-7f8219c6e84c.run.log
+2023-04-24 10:46:33.672 | INFO | generate testcase log: D:\workspace\http-frame\logs\79681552-e162-47aa-8003-7f8219c6e84c.run.log
+2023-04-24 10:46:33.672 | INFO | generate testcase log: D:\workspace\http-frame\logs\79681552-e162-47aa-8003-7f8219c6e84c.run.log
+2023-04-24 10:46:33.673 | INFO | run step end: /cgi-bin/tags/get <<<<<<
+
+2023-04-24 10:46:33.673 | INFO | run step end: /cgi-bin/tags/get <<<<<<
+
+2023-04-24 10:46:33.673 | INFO | run step end: /cgi-bin/tags/get <<<<<<
+
+2023-04-24 10:46:33.673 | INFO | run step end: /cgi-bin/tags/get <<<<<<
+
+2023-04-24 10:46:33.673 | INFO | run step end: /cgi-bin/tags/get <<<<<<
+
+2023-04-24 10:46:33.673 | INFO | run step end: /cgi-bin/tags/get <<<<<<
+
+2023-04-24 10:46:33.673 | INFO | generate testcase log: D:\workspace\http-frame\logs\79681552-e162-47aa-8003-7f8219c6e84c.run.log
+2023-04-24 10:46:33.673 | INFO | generate testcase log: D:\workspace\http-frame\logs\79681552-e162-47aa-8003-7f8219c6e84c.run.log
+2023-04-24 10:46:33.673 | INFO | generate testcase log: D:\workspace\http-frame\logs\79681552-e162-47aa-8003-7f8219c6e84c.run.log
+2023-04-24 10:46:33.673 | INFO | generate testcase log: D:\workspace\http-frame\logs\79681552-e162-47aa-8003-7f8219c6e84c.run.log
+2023-04-24 10:46:33.673 | INFO | generate testcase log: D:\workspace\http-frame\logs\79681552-e162-47aa-8003-7f8219c6e84c.run.log
+2023-04-24 10:46:33.673 | INFO | generate testcase log: D:\workspace\http-frame\logs\79681552-e162-47aa-8003-7f8219c6e84c.run.log
+2023-04-24 10:46:33.674 | INFO | run step end: /cgi-bin/select_token <<<<<<
+
+2023-04-24 10:46:33.674 | INFO | run step end: /cgi-bin/select_token <<<<<<
+
+2023-04-24 10:46:33.674 | INFO | run step end: /cgi-bin/select_token <<<<<<
+
+2023-04-24 10:46:33.674 | INFO | run step end: /cgi-bin/select_token <<<<<<
+
+2023-04-24 10:46:33.674 | INFO | run step end: /cgi-bin/select_token <<<<<<
+
+2023-04-24 10:46:33.674 | INFO | run step end: /cgi-bin/select_token <<<<<<
+
+2023-04-24 10:46:33.675 | INFO | generate testcase log: D:\workspace\http-frame\logs\79681552-e162-47aa-8003-7f8219c6e84c.run.log
+2023-04-24 10:46:33.675 | INFO | generate testcase log: D:\workspace\http-frame\logs\79681552-e162-47aa-8003-7f8219c6e84c.run.log
+2023-04-24 10:46:33.675 | INFO | generate testcase log: D:\workspace\http-frame\logs\79681552-e162-47aa-8003-7f8219c6e84c.run.log
+2023-04-24 10:46:33.675 | INFO | generate testcase log: D:\workspace\http-frame\logs\79681552-e162-47aa-8003-7f8219c6e84c.run.log
+2023-04-24 10:46:33.675 | INFO | generate testcase log: D:\workspace\http-frame\logs\79681552-e162-47aa-8003-7f8219c6e84c.run.log
+2023-04-24 10:46:33.675 | INFO | generate testcase log: D:\workspace\http-frame\logs\79681552-e162-47aa-8003-7f8219c6e84c.run.log

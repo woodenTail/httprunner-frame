@@ -1,0 +1,76 @@
+2023-04-24 10:45:46.368 | INFO | run step begin: /cgi-bin/token >>>>>>
+2023-04-24 10:45:46.369 | DEBUG | ====== request details ======
+url: https://api.weixin.qq.com/cgi-bin/token
+method: GET
+params: {
+    "appid": "wxe6d35c5fb83d7039",
+    "grant_type": "client_credential",
+    "secret": "648f2af46d5cfd59fc0feb2b6c4019e0"
+}
+data: None
+cookies: {}
+timeout: 120
+allow_redirects: True
+verify: False
+headers: {
+    "Authorization": "Basic MTox",
+    "Postman-Token": "b4b7b7a2-e6fd-46b7-976f-dbfe4f8a8664",
+    "User-Agent": "PostmanRuntime/7.32.2",
+    "HRUN-Request-ID": "HRUN-6a10e289-6561-421a-8f49-acdbd7574009-346369"
+}
+json: None
+
+2023-04-24 10:45:47.024 | DEBUG | client IP: 192.168.180.112, Port: 49597
+2023-04-24 10:45:47.024 | DEBUG | server IP: 101.91.37.13, Port: 443
+2023-04-24 10:45:47.024 | DEBUG | 
+================== request details ==================
+method   : GET
+url      : https://api.weixin.qq.com/cgi-bin/token?appid=wxe6d35c5fb83d7039&grant_type=client_credential&secret=648f2af46d5cfd59fc0feb2b6c4019e0
+headers  : {
+    "User-Agent": "PostmanRuntime/7.32.2",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Accept": "*/*",
+    "Connection": "keep-alive",
+    "Authorization": "Basic MTox",
+    "Postman-Token": "b4b7b7a2-e6fd-46b7-976f-dbfe4f8a8664",
+    "HRUN-Request-ID": "HRUN-6a10e289-6561-421a-8f49-acdbd7574009-346369"
+}
+cookies  : {}
+body     : None
+
+2023-04-24 10:45:47.025 | DEBUG | 
+================== response details ==================
+status_code : 200
+headers  : {
+    "Connection": "keep-alive",
+    "Content-Type": "application/json; encoding=utf-8",
+    "Date": "Mon, 24 Apr 2023 02:45:47 GMT",
+    "Content-Length": "173"
+}
+cookies  : {}
+encoding : utf-8
+content_type : application/json; encoding=utf-8
+body     : {
+    "access_token": "67_2VyBt2YieGqNT0vQKMzsQg6c1vRLJrlZ9Evpdnoy6IVCiDGDmyLr9k9tru1ajyRqBaDbTLB9-BsKoU_TgP9MHG6YI758cIMXzUU94PO-vHxiLwmK6A7EAlV-0xYAZUcAJAHGB",
+    "expires_in": 7200
+}
+
+2023-04-24 10:45:47.025 | INFO | status_code: 200, response_time(ms): 652.39 ms, response_length: 0 bytes
+2023-04-24 10:45:47.026 | DEBUG | ====== response details ======
+status_code: 200
+headers: {
+    "Connection": "keep-alive",
+    "Content-Type": "application/json; encoding=utf-8",
+    "Date": "Mon, 24 Apr 2023 02:45:47 GMT",
+    "Content-Length": "173"
+}
+body: {
+    "access_token": "67_2VyBt2YieGqNT0vQKMzsQg6c1vRLJrlZ9Evpdnoy6IVCiDGDmyLr9k9tru1ajyRqBaDbTLB9-BsKoU_TgP9MHG6YI758cIMXzUU94PO-vHxiLwmK6A7EAlV-0xYAZUcAJAHGB",
+    "expires_in": 7200
+}
+
+2023-04-24 10:45:47.026 | INFO | extract mapping: {'access_token': '67_2VyBt2YieGqNT0vQKMzsQg6c1vRLJrlZ9Evpdnoy6IVCiDGDmyLr9k9tru1ajyRqBaDbTLB9-BsKoU_TgP9MHG6YI758cIMXzUU94PO-vHxiLwmK6A7EAlV-0xYAZUcAJAHGB'}
+2023-04-24 10:45:47.027 | INFO | assert status_code equal 200(int)	==> pass
+2023-04-24 10:45:47.027 | INFO | run step end: /cgi-bin/token <<<<<<
+
+2023-04-24 10:45:47.028 | INFO | generate testcase log: D:\workspace\http-frame\logs\6a10e289-6561-421a-8f49-acdbd7574009.run.log

@@ -1,0 +1,7 @@
+config:
+    name: testcase description
+
+teststeps:
+-   name: /cgi-bin/token
+    api: api/get_token.yml
+

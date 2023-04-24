@@ -1,0 +1,47 @@
+config:
+    name: testcase description
+    variables: {}
+teststeps:
+-   name: /cgi-bin/token
+    request:
+        headers:
+            Authorization: Basic MTox
+            Postman-Token: 1d99e8cc-c73f-47a2-9620-4aed0320ea85
+            User-Agent: PostmanRuntime/7.32.2
+        method: GET
+        params:
+            appid: wxe6d35c5fb83d7039
+            grant_type: client_credential
+            secret: 648f2af46d5cfd59fc0feb2b6c4019e0
+        url: https://api.weixin.qq.com/cgi-bin/token
+    extract:
+        access_token: content.access_token
+    validate:
+    -   eq:
+        - status_code
+        - 200
+#    -   eq:
+#        - headers.Content-Type
+#        - application/json; encoding=utf-8
+#    -   eq:
+#        - content.access_token
+#        - 67_N37crdPRFJHrx5PN7Qjq90HAKv7oAZPfcCL4syq7gAfDaEn_f9TqjnFgoWhnJzAy18P7KQ9WxTfOFqfKQPDjQfFTy6QYuNXNJVq4jFE1UOySAuPGseBZRKGZCzcOCDgAJAJXY
+#    -   eq:
+#        - content.expires_in
+#        - 7200
+-   name: /cgi-bin/tags/get
+    request:
+        headers:
+            Postman-Token: f7f5a6e0-f6b9-4bfb-8ef6-f0a2ef742286
+            User-Agent: PostmanRuntime/7.32.2
+        method: GET
+        params:
+            access_token: $access_token
+        url: https://api.weixin.qq.com/cgi-bin/tags/get
+    validate:
+    -   eq:
+        - status_code
+        - 200
+#    -   eq:
+#        - headers.Content-Type
+#        - application/json; encoding=utf-8

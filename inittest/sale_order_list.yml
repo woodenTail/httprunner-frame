@@ -1,0 +1,33 @@
+config:
+    name: testcase description
+    variables: {}
+teststeps:
+-   name: /prod-api/order/salesOrder/list
+    request:
+        headers:
+            Authorization: Bearer eyJhbGciOiJIUzUxMiJ9.eyJsb2dpbl91c2VyX2tleSI6IjU0NDRjY2UxLWYwYmItNGRmNy04Yjc5LTczNDQ1NmZlZWYyMyJ9.QM2RahHLVXaesXEFio37p69WKvcj1zn8qRB_4uiUo3xGenAiJ55k_xz-rw1f_UoVVQwqZEs0VBKdSFlCdYNzqw
+            User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+                (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+        method: GET
+        params:
+            allProductData: ''
+            pageNum: '1'
+            pageSize: '10'
+            status: '0'
+        url: http://192.168.200.135/prod-api/order/salesOrder/list
+    validate:
+    -   eq:
+        - status_code
+        - 200
+    -   eq:
+        - headers.Content-Type
+        - application/json
+    -   eq:
+        - content.total
+        - 1510
+    -   eq:
+        - content.code
+        - 200
+    -   eq:
+        - content.msg
+        - 查询成功

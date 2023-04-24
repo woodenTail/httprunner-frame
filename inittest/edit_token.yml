@@ -1,0 +1,61 @@
+config:
+    name: testcase description
+    variables:
+        appid: wxe6d35c5fb83d7039
+        grant_type: client_credential
+        secret: 648f2af46d5cfd59fc0feb2b6c4019e0
+teststeps:
+-   name: /cgi-bin/token
+    request:
+        headers:
+            Authorization: Basic MTox
+            Postman-Token: ffca98ac-6e08-4d2b-ba79-cef085465e45
+            User-Agent: PostmanRuntime/7.32.2
+        method: GET
+        params:
+            appid: $appid
+            grant_type: $grant_type
+            secret: $secret
+        url: https://api.weixin.qq.com/cgi-bin/token
+    extract:
+        access_token: body.access_token
+    validate:
+    -   eq:
+        - status_code
+        - 200
+    -   eq:
+        - headers.Content-Type
+        - application/json; encoding=utf-8
+#    -   eq:
+#        - content.access_token
+#        - 67_ehaLWy0KGbA5-Y6koM95vWgBOw4z-zilXrtKuZU05dw53j-kwsWwbVlfINMW06Zn6IFWZAXAQ8x-OI_IlIL816Kn2isBeXUrJwFrVE4Qi_AXWNmYj_jpZy3PZuAQWQdADAMSM
+#    -   eq:
+#        - content.expires_in
+#        - 7200
+-   name: /cgi-bin/tags/update
+    request:
+        headers:
+            Content-Type: application/json
+            Postman-Token: 4228ca32-e415-4007-87de-98e7b117aced
+            User-Agent: PostmanRuntime/7.32.2
+        json:
+            tag:
+                id: 162
+                name: 木子${get_random_number(100000,999999)}
+        method: POST
+        params:
+            access_token: $access_token
+        url: https://api.weixin.qq.com/cgi-bin/tags/update
+    validate:
+    -   eq:
+        - status_code
+        - 200
+    -   eq:
+        - headers.Content-Type
+        - application/json; encoding=utf-8
+    -   eq:
+        - content.errcode
+        - 0
+    -   eq:
+        - content.errmsg
+        - ok

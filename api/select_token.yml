@@ -1,0 +1,21 @@
+config:
+    name: testcase description
+    variables:
+        access_token: $access_token
+teststeps:
+-   name: /cgi-bin/tags/get
+    request:
+        headers:
+            Postman-Token: c83ad029-b706-4166-8707-2b98be52346b
+            User-Agent: PostmanRuntime/7.32.2
+        method: GET
+        params:
+            access_token: $access_token
+        url: https://api.weixin.qq.com/cgi-bin/tags/get
+    validate:
+    -   eq:
+        - status_code
+        - 200
+    -   eq:
+        - headers.Content-Type
+        - application/json; encoding=utf-8

@@ -1,0 +1,10 @@
+config:
+    name: testcase description
+teststeps:
+-   name: /cgi-bin/token
+    api: api/get_token.yml
+    export:
+        - access_token
+
+-   name: /cgi-bin/tags/get
+    api:  api/select_token.yml
